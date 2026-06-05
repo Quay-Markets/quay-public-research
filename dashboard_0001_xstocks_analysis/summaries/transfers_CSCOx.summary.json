@@ -1,0 +1,88 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2.48097431,
+      "volume_raw": "248097431"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.38380474,
+      "volume_raw": "38380474"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.02909968,
+      "volume_raw": "2909968"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 8,
+      "volume": 2.89387873,
+      "volume_raw": "289387873"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 2,
+      "volume": 0.38380474,
+      "volume_raw": "38380474"
+    },
+    {
+      "count": 7,
+      "level": 3,
+      "volume": 2.51007399,
+      "volume_raw": "251007399"
+    }
+  ],
+  "max_block_time": 1780513013,
+  "max_slot": 424085196,
+  "max_time_utc": "2026-06-03T18:56:53Z",
+  "min_block_time": 1780475137,
+  "min_slot": 423990093,
+  "min_time_utc": "2026-06-03T08:25:37Z",
+  "mint": "Xsr3pdLQyXvDJBFgpR5nexCEZwXvigb8wbPYp4YoNFf",
+  "name": "Cisco xStock",
+  "router_histogram": [
+    {
+      "count": 4,
+      "router": "Jupiter v6",
+      "volume": 2.86477905,
+      "volume_raw": "286477905"
+    },
+    {
+      "count": 4,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.02909968,
+      "volume_raw": "2909968"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "CSCOx",
+  "transfers": 8,
+  "txs": 13,
+  "txs_with_transfer": 7,
+  "txs_without_transfer": 6,
+  "volume": 2.89387873,
+  "volume_raw": "289387873",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

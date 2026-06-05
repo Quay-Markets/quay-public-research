@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 10.56491412,
+      "volume_raw": "1056491412"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 10.56491412,
+      "volume_raw": "1056491412"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 2,
+      "volume": 10.56491412,
+      "volume_raw": "1056491412"
+    }
+  ],
+  "max_block_time": 1780491120,
+  "max_slot": 424030251,
+  "max_time_utc": "2026-06-03T12:52:00Z",
+  "min_block_time": 1780447810,
+  "min_slot": 423921398,
+  "min_time_utc": "2026-06-03T00:50:10Z",
+  "mint": "XsAtbqkAP1HJxy7hFDeq7ok6yM43DQ9mQ1Rh861X8rw",
+  "name": "Pfizer xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 10.56491412,
+      "volume_raw": "1056491412"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "PFEx",
+  "transfers": 1,
+  "txs": 4,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 3,
+  "volume": 10.56491412,
+  "volume_raw": "1056491412",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

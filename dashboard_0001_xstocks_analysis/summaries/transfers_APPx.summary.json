@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 13.10228257,
+      "volume_raw": "1310228257"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 13.10228257,
+      "volume_raw": "1310228257"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 2,
+      "volume": 13.10228257,
+      "volume_raw": "1310228257"
+    }
+  ],
+  "max_block_time": 1780492773,
+  "max_slot": 424034416,
+  "max_time_utc": "2026-06-03T13:19:33Z",
+  "min_block_time": 1780463991,
+  "min_slot": 423962033,
+  "min_time_utc": "2026-06-03T05:19:51Z",
+  "mint": "XsPdAVBi8Zc1xvv53k4JcMrQaEDTgkGqKYeh7AYgPHV",
+  "name": "AppLovin xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 13.10228257,
+      "volume_raw": "1310228257"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "APPx",
+  "transfers": 1,
+  "txs": 5,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 4,
+  "volume": 13.10228257,
+  "volume_raw": "1310228257",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

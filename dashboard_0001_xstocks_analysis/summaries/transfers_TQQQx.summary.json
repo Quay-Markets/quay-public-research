@@ -1,0 +1,188 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 22.3345059,
+      "volume_raw": "2233450590"
+    },
+    {
+      "class": "direct_dex",
+      "count": 6,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.68853205,
+      "volume_raw": "68853205"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "DFlow Aggregator v4/Orca Whirlpool",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.42802362,
+      "volume_raw": "42802362"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Raydium Route/Raydium CLMM",
+      "raw_path": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.2657596,
+      "volume_raw": "26575960"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "BGW Aggregator/Raydium CLMM",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.04579988,
+      "volume_raw": "4579988"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00569182,
+      "volume_raw": "569182"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Raydium CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00336736,
+      "volume_raw": "336736"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00336736,
+      "volume_raw": "336736"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (9Zzf9Q)/Raydium CLMM",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00174493,
+      "volume_raw": "174493"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (9Zzf9Q)/Orca Whirlpool",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00174493,
+      "volume_raw": "174493"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.2e-7,
+      "volume_raw": "12"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 10,
+      "volume": 23.07978094,
+      "volume_raw": "2307978094"
+    },
+    {
+      "class": "direct_dex",
+      "count": 6,
+      "volume": 0.68853205,
+      "volume_raw": "68853205"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "volume": 0.01022458,
+      "volume_raw": "1022458"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 7,
+      "level": 2,
+      "volume": 23.02303795,
+      "volume_raw": "2302303795"
+    },
+    {
+      "count": 13,
+      "level": 3,
+      "volume": 0.7487649,
+      "volume_raw": "74876490"
+    },
+    {
+      "count": 6,
+      "level": 4,
+      "volume": 0.00673472,
+      "volume_raw": "673472"
+    }
+  ],
+  "max_block_time": 1780527171,
+  "max_slot": 424120782,
+  "max_time_utc": "2026-06-03T22:52:51Z",
+  "min_block_time": 1780447427,
+  "min_slot": 423920431,
+  "min_time_utc": "2026-06-03T00:43:47Z",
+  "mint": "XsjQP3iMAaQ3kQScQKthQpx9ALRbjKAjQtHg6TFomoc",
+  "name": "TQQQ xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 22.3345059,
+      "volume_raw": "2233450590"
+    },
+    {
+      "count": 3,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.43371544,
+      "volume_raw": "43371544"
+    },
+    {
+      "count": 1,
+      "router": "Raydium Route",
+      "volume": 0.2657596,
+      "volume_raw": "26575960"
+    },
+    {
+      "count": 1,
+      "router": "BGW Aggregator",
+      "volume": 0.04579988,
+      "volume_raw": "4579988"
+    },
+    {
+      "count": 4,
+      "router": "OKX DEX Router",
+      "volume": 1.2e-7,
+      "volume_raw": "12"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "TQQQx",
+  "transfers": 26,
+  "txs": 39,
+  "txs_with_transfer": 21,
+  "txs_without_transfer": 18,
+  "volume": 23.77853757,
+  "volume_raw": "2377853757",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

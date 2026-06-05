@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Meteora DLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.05342451,
+      "volume_raw": "5342451"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 0.05342451,
+      "volume_raw": "5342451"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 3,
+      "volume": 0.05342451,
+      "volume_raw": "5342451"
+    }
+  ],
+  "max_block_time": 1780489110,
+  "max_slot": 424025194,
+  "max_time_utc": "2026-06-03T12:18:30Z",
+  "min_block_time": 1780468110,
+  "min_slot": 423972404,
+  "min_time_utc": "2026-06-03T06:28:30Z",
+  "mint": "XsssYEQjzxBCFgvYFFNuhJFBeHNdLWYeUSP8F45cDr9",
+  "name": "Vanguard xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.05342451,
+      "volume_raw": "5342451"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "VTIx",
+  "transfers": 1,
+  "txs": 2,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 1,
+  "volume": 0.05342451,
+  "volume_raw": "5342451",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.04491685,
+      "volume_raw": "4491685"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 0.04491685,
+      "volume_raw": "4491685"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 3,
+      "volume": 0.04491685,
+      "volume_raw": "4491685"
+    }
+  ],
+  "max_block_time": 1780515994,
+  "max_slot": 424092702,
+  "max_time_utc": "2026-06-03T19:46:34Z",
+  "min_block_time": 1780476890,
+  "min_slot": 423994500,
+  "min_time_utc": "2026-06-03T08:54:50Z",
+  "mint": "XsafvsGtzFqqHgTnA3aPC83EAMkacU5mcGtcSayhpVV",
+  "name": "TSMC xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "OKX DEX Router",
+      "volume": 0.04491685,
+      "volume_raw": "4491685"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "TSMx",
+  "transfers": 1,
+  "txs": 8,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 7,
+  "volume": 0.04491685,
+  "volume_raw": "4491685",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

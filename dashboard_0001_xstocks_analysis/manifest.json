@@ -1,0 +1,1322 @@
+{
+  "slug": "dashboard_0001_xstocks_analysis",
+  "title": "xStocks \u00b7 on-chain flow",
+  "base_url": "https://quay-markets.github.io/quay-public-research",
+  "dashboard": "dashboards/dashboard_0001_xstocks_analysis.html",
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "stocks_count": 163,
+  "total_trades": 137829,
+  "files": {
+    "labels": "dashboard_0001_xstocks_analysis/labels.json",
+    "tokens": "dashboard_0001_xstocks_analysis/xstocks_tokens.json",
+    "prices": "dashboard_0001_xstocks_analysis/xstocks_prices.json",
+    "program_categories": "dashboard_0001_xstocks_analysis/program_categories.json"
+  },
+  "stocks": [
+    {
+      "symbol": "CRCLx",
+      "name": "Circle xStock",
+      "mint": "XsueG8BtpquVJX9LVLLEGuViXUungE6WmK5YZ3p3bd1",
+      "trades": 44067,
+      "shares": 119986.95925966,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CRCLx.summary.json"
+    },
+    {
+      "symbol": "TSLAx",
+      "name": "Tesla xStock",
+      "mint": "XsDoVfqeBukxuZHWhdvWHBhgEHjGNst4MLodqsJHzoB",
+      "trades": 22835,
+      "shares": 5689.02786909,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TSLAx.summary.json"
+    },
+    {
+      "symbol": "NVDAx",
+      "name": "NVIDIA xStock",
+      "mint": "Xsc9qvGR1efVDFGLrVsmkzv3qi45LTBjeUKSPmx9qEh",
+      "trades": 17039,
+      "shares": 13362.80132779,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_NVDAx.summary.json"
+    },
+    {
+      "symbol": "MSTRx",
+      "name": "MicroStrategy xStock",
+      "mint": "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ",
+      "trades": 11807,
+      "shares": 13924.01422394,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MSTRx.summary.json"
+    },
+    {
+      "symbol": "QQQx",
+      "name": "Nasdaq xStock",
+      "mint": "Xs8S1uUs1zvS2p7iwtsG3b6fkhpvmwz4GYU3gWAmWHZ",
+      "trades": 9823,
+      "shares": 3777.64090328,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_QQQx.summary.json"
+    },
+    {
+      "symbol": "SPYx",
+      "name": "SP500 xStock",
+      "mint": "XsoCS1TfEyfFhfvj8EtZ528L3CaKBDBRqRapnBbDF2W",
+      "trades": 7106,
+      "shares": 3189.68257279,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SPYx.summary.json"
+    },
+    {
+      "symbol": "GOOGLx",
+      "name": "Alphabet xStock",
+      "mint": "XsCPL9dNWBMvFtTmwcCA5v3xWPSMEBCszbQdiLLq6aN",
+      "trades": 5211,
+      "shares": 2430.24263555,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GOOGLx.summary.json"
+    },
+    {
+      "symbol": "COINx",
+      "name": "Coinbase xStock",
+      "mint": "Xs7ZdzSHLU9ftNJsii5fCeJhoRWSC32SQGzGQtePxNu",
+      "trades": 3984,
+      "shares": 11538.30075162,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_COINx.summary.json"
+    },
+    {
+      "symbol": "HOODx",
+      "name": "Robinhood xStock",
+      "mint": "XsvNBAYkrDRNhA7wPHQfX3ZUXZyZLdnCQDfHZ56bzpg",
+      "trades": 2980,
+      "shares": 8967.11510173,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_HOODx.summary.json"
+    },
+    {
+      "symbol": "GLDx",
+      "name": "Gold xStock",
+      "mint": "Xsv9hRk1z5ystj9MhnA7Lq4vjSsLwzL2nxrwmwtD3re",
+      "trades": 2691,
+      "shares": 452.68266466,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GLDx.summary.json"
+    },
+    {
+      "symbol": "AMZNx",
+      "name": "Amazon.com xStock",
+      "mint": "Xs3eBt7uRfJX8QUs4suhyU8p2M6DoUDrJyWBa8LLZsg",
+      "trades": 2397,
+      "shares": 893.43551433,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AMZNx.summary.json"
+    },
+    {
+      "symbol": "STRCx",
+      "name": "Strategy PP Variable xStock",
+      "mint": "Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH",
+      "trades": 1921,
+      "shares": 6948.93049555,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_STRCx.summary.json"
+    },
+    {
+      "symbol": "AAPLx",
+      "name": "Apple xStock",
+      "mint": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
+      "trades": 1506,
+      "shares": 285.79100023,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AAPLx.summary.json"
+    },
+    {
+      "symbol": "MSFTx",
+      "name": "Microsoft xStock",
+      "mint": "XspzcW1PRtgf6Wj92HCiZdjzKCyFekVD8P5Ueh3dRMX",
+      "trades": 950,
+      "shares": 757.11727225,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MSFTx.summary.json"
+    },
+    {
+      "symbol": "METAx",
+      "name": "Meta xStock",
+      "mint": "Xsa62P5mvPszXL1krVUnU5ar38bBSVcWAB6fmPCo5Zu",
+      "trades": 711,
+      "shares": 300.63585085,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_METAx.summary.json"
+    },
+    {
+      "symbol": "AVGOx",
+      "name": "Broadcom xStock",
+      "mint": "XsgSaSvNSqLTtFuyWPBhK9196Xb9Bbdyjj4fH3cPJGo",
+      "trades": 364,
+      "shares": 66.05267625,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AVGOx.summary.json"
+    },
+    {
+      "symbol": "INTCx",
+      "name": "Intel xStock",
+      "mint": "XshPgPdXFRWB8tP1j82rebb2Q9rPgGX37RuqzohmArM",
+      "trades": 356,
+      "shares": 76.72520083,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_INTCx.summary.json"
+    },
+    {
+      "symbol": "GMEx",
+      "name": "Gamestop xStock",
+      "mint": "Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc",
+      "trades": 288,
+      "shares": 40.15746943,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GMEx.summary.json"
+    },
+    {
+      "symbol": "MRVLx",
+      "name": "Marvell xStock",
+      "mint": "XsuxRGDzbLjnJ72v74b7p9VY6N66uYgTCyfwwRjVCJA",
+      "trades": 247,
+      "shares": 268.19550022,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MRVLx.summary.json"
+    },
+    {
+      "symbol": "PLTRx",
+      "name": "Palantir xStock",
+      "mint": "XsoBhf2ufR8fTyNSjqfU71DYGaE6Z3SUGAidpzriAA4",
+      "trades": 245,
+      "shares": 544.81300581,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PLTRx.summary.json"
+    },
+    {
+      "symbol": "NFLXx",
+      "name": "Netflix xStock",
+      "mint": "XsEH7wWfJJu2ZT3UCFeVfALnVA6CP5ur7Ee11KmzVpL",
+      "trades": 186,
+      "shares": 7.75853846,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_NFLXx.summary.json"
+    },
+    {
+      "symbol": "UNHx",
+      "name": "UnitedHealth xStock",
+      "mint": "XszvaiXGPwvk2nwb3o9C1CX4K6zH8sez11E6uyup6fe",
+      "trades": 158,
+      "shares": 4.46349855,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_UNHx.summary.json"
+    },
+    {
+      "symbol": "MCDx",
+      "name": "McDonald's xStock",
+      "mint": "XsqE9cRRpzxcGKDXj1BJ7Xmg4GRhZoyY1KpmGSxAWT2",
+      "trades": 134,
+      "shares": 71.87047294,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MCDx.summary.json"
+    },
+    {
+      "symbol": "DFDVx",
+      "name": "DFDV xStock",
+      "mint": "Xs2yquAgsHByNzx68WJC55WHjHBvG9JsMB7CWjTLyPy",
+      "trades": 133,
+      "shares": 4588.6783091,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_DFDVx.summary.json"
+    },
+    {
+      "symbol": "ORCLx",
+      "name": "Oracle xStock",
+      "mint": "XsjFwUPiLofddX5cWFHW35GCbXcSu1BCUGfxoQAQjeL",
+      "trades": 124,
+      "shares": 49.37445945,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ORCLx.summary.json"
+    },
+    {
+      "symbol": "AMDx",
+      "name": "AMD xStock",
+      "mint": "XsXcJ6GZ9kVnjqGsjBnktRcuwMBmvKWh8S93RefZ1rF",
+      "trades": 87,
+      "shares": 3.19128369,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AMDx.summary.json"
+    },
+    {
+      "symbol": "KOx",
+      "name": "Coca-Cola xStock",
+      "mint": "XsaBXg8dU5cPM6ehmVctMkVqoiRG2ZjMo1cyBJ3AykQ",
+      "trades": 61,
+      "shares": 35.88254814,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_KOx.summary.json"
+    },
+    {
+      "symbol": "PGx",
+      "name": "Procter & Gamble xStock",
+      "mint": "XsYdjDjNUygZ7yGKfQaB6TxLh2gC6RRjzLtLAGJrhzV",
+      "trades": 59,
+      "shares": 2.89451489,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PGx.summary.json"
+    },
+    {
+      "symbol": "BRK.Bx",
+      "name": "Berkshire Hathaway xStock",
+      "mint": "Xs6B6zawENwAbWVi7w92rjazLuAr5Az59qgWKcNb45x",
+      "trades": 52,
+      "shares": 13.19937842,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BRK.Bx.summary.json"
+    },
+    {
+      "symbol": "MAx",
+      "name": "Mastercard xStock",
+      "mint": "XsApJFV9MAktqnAc6jqzsHVujxkGm9xcSUffaBoYLKC",
+      "trades": 51,
+      "shares": 0.53574589,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MAx.summary.json"
+    },
+    {
+      "symbol": "Vx",
+      "name": "Visa xStock",
+      "mint": "XsqgsbXwWogGJsNcVZ3TyVouy2MbTkfCFhCGGGcQZ2p",
+      "trades": 35,
+      "shares": 2.30205561,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_Vx.summary.json"
+    },
+    {
+      "symbol": "XOMx",
+      "name": "Exxon Mobil xStock",
+      "mint": "XsaHND8sHyfMfsWPj6kSdd5VwvCayZvjYgKmmcNL5qh",
+      "trades": 33,
+      "shares": 14.74227185,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_XOMx.summary.json"
+    },
+    {
+      "symbol": "TQQQx",
+      "name": "TQQQ xStock",
+      "mint": "XsjQP3iMAaQ3kQScQKthQpx9ALRbjKAjQtHg6TFomoc",
+      "trades": 26,
+      "shares": 23.77853757,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TQQQx.summary.json"
+    },
+    {
+      "symbol": "WMTx",
+      "name": "Walmart xStock",
+      "mint": "Xs151QeqTCiuKtinzfRATnUESM2xTU6V9Wy8Vy538ci",
+      "trades": 24,
+      "shares": 260.8642004,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_WMTx.summary.json"
+    },
+    {
+      "symbol": "ABTx",
+      "name": "Abbott xStock",
+      "mint": "XsHtf5RpxsQ7jeJ9ivNewouZKJHbPxhPoEy6yYvULr7",
+      "trades": 16,
+      "shares": 1.71388557,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ABTx.summary.json"
+    },
+    {
+      "symbol": "SNDKx",
+      "name": "Sandisk Corporation xStock",
+      "mint": "Xswbpc8UqU6e1j9QZEWCjBMjyvz4twqD7PCy6j2e7jj",
+      "trades": 14,
+      "shares": 5.59001507,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SNDKx.summary.json"
+    },
+    {
+      "symbol": "LLYx",
+      "name": "Eli Lilly xStock",
+      "mint": "Xsnuv4omNoHozR6EEW5mXkw8Nrny5rB3jVfLqi6gKMH",
+      "trades": 13,
+      "shares": 0.58912717,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_LLYx.summary.json"
+    },
+    {
+      "symbol": "JPMx",
+      "name": "JPMorgan Chase xStock",
+      "mint": "XsMAqkcKsUewDrzVkait4e5u4y8REgtyS7jWgCpLV2C",
+      "trades": 12,
+      "shares": 16.24938161,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_JPMx.summary.json"
+    },
+    {
+      "symbol": "CSCOx",
+      "name": "Cisco xStock",
+      "mint": "Xsr3pdLQyXvDJBFgpR5nexCEZwXvigb8wbPYp4YoNFf",
+      "trades": 8,
+      "shares": 2.89387873,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CSCOx.summary.json"
+    },
+    {
+      "symbol": "CVXx",
+      "name": "Chevron xStock",
+      "mint": "XsNNMt7WTNA2sV3jrb1NNfNgapxRF5i4i6GcnTRRHts",
+      "trades": 8,
+      "shares": 2.76477022,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CVXx.summary.json"
+    },
+    {
+      "symbol": "IBMx",
+      "name": "International Business Machines xStock",
+      "mint": "XspwhyYPdWVM8XBHZnpS9hgyag9MKjLRyE3tVfmCbSr",
+      "trades": 8,
+      "shares": 0.59668366,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IBMx.summary.json"
+    },
+    {
+      "symbol": "AMBRx",
+      "name": "Amber xStock",
+      "mint": "XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb",
+      "trades": 7,
+      "shares": 22.23473381,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AMBRx.summary.json"
+    },
+    {
+      "symbol": "ACNx",
+      "name": "Accenture xStock",
+      "mint": "Xs5UJzmCRQ8DWZjskExdSQDnbE6iLkRu2jjrRAB1JSU",
+      "trades": 6,
+      "shares": 0.00480582,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ACNx.summary.json"
+    },
+    {
+      "symbol": "BMNRx",
+      "name": "Bitmine xStock",
+      "mint": "XsrBCwaH8c46xiqXBChzobgufRKxQxAWUWbndgBNzFn",
+      "trades": 5,
+      "shares": 22.29929752,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BMNRx.summary.json"
+    },
+    {
+      "symbol": "MUx",
+      "name": "Micron Technology xStock",
+      "mint": "XsQLZycSZ7QnBBdBXQaTbQdiUcbRqjNJgyBGAMzhHav",
+      "trades": 5,
+      "shares": 7.3996268,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MUx.summary.json"
+    },
+    {
+      "symbol": "AZNx",
+      "name": "AstraZeneca xStock",
+      "mint": "Xs3ZFkPYT2BN7qBMqf1j1bfTeTm1rFzEFSsQ1z3wAKU",
+      "trades": 5,
+      "shares": 7.5798363,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AZNx.summary.json"
+    },
+    {
+      "symbol": "PEPx",
+      "name": "PepsiCo xStock",
+      "mint": "Xsv99frTRUeornyvCfvhnDesQDWuvns1M852Pez91vF",
+      "trades": 4,
+      "shares": 1.23058504,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PEPx.summary.json"
+    },
+    {
+      "symbol": "DELLx",
+      "name": "Dell Technologies Inc. xStock",
+      "mint": "Xsu7Tc5J2fVUE4H5vYAiSr34cvLJeCsYPMjAYnayQn6",
+      "trades": 4,
+      "shares": 109.24390123,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_DELLx.summary.json"
+    },
+    {
+      "symbol": "CMCSAx",
+      "name": "Comcast xStock",
+      "mint": "XsvKCaNsxg2GN8jjUmq71qukMJr7Q1c5R2Mk9P8kcS8",
+      "trades": 4,
+      "shares": 30.8126544,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CMCSAx.summary.json"
+    },
+    {
+      "symbol": "NVOx",
+      "name": "Novo Nordisk xStock",
+      "mint": "XsfAzPzYrYjd4Dpa9BU3cusBsvWfVB9gBcyGC87S57n",
+      "trades": 3,
+      "shares": 1.35555962,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_NVOx.summary.json"
+    },
+    {
+      "symbol": "RIOTx",
+      "name": "Riot Platforms xStock",
+      "mint": "Xs31mE5EiqjSHEaiX9QDKCN6NvSGCqpJ6f1FNq2wri5",
+      "trades": 2,
+      "shares": 18.7551131,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_RIOTx.summary.json"
+    },
+    {
+      "symbol": "STRKx",
+      "name": "Strategy PP Fixed xStock",
+      "mint": "XsaQGz41BEQkS9xAB44uvUtuXcdLJAXEU1dogEzWMZ8",
+      "trades": 2,
+      "shares": 7.42561412,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_STRKx.summary.json"
+    },
+    {
+      "symbol": "VTx",
+      "name": "Vanguard Total World xStock",
+      "mint": "XsEdDDTcVGJU6nvdRdVnj53eKTrsCkvtrVfXGmUK68V",
+      "trades": 1,
+      "shares": 1.06661147,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VTx.summary.json"
+    },
+    {
+      "symbol": "SLVx",
+      "name": "iShares Silver Trust xStock",
+      "mint": "XsxAd6okt8y1RRK6gNg7iJaqiWNiq5Md5EDf3ZrF2dm",
+      "trades": 1,
+      "shares": 0.01173547,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SLVx.summary.json"
+    },
+    {
+      "symbol": "APPx",
+      "name": "AppLovin xStock",
+      "mint": "XsPdAVBi8Zc1xvv53k4JcMrQaEDTgkGqKYeh7AYgPHV",
+      "trades": 1,
+      "shares": 13.10228257,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_APPx.summary.json"
+    },
+    {
+      "symbol": "PFEx",
+      "name": "Pfizer xStock",
+      "mint": "XsAtbqkAP1HJxy7hFDeq7ok6yM43DQ9mQ1Rh861X8rw",
+      "trades": 1,
+      "shares": 10.56491412,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PFEx.summary.json"
+    },
+    {
+      "symbol": "VTIx",
+      "name": "Vanguard xStock",
+      "mint": "XsssYEQjzxBCFgvYFFNuhJFBeHNdLWYeUSP8F45cDr9",
+      "trades": 1,
+      "shares": 0.05342451,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VTIx.summary.json"
+    },
+    {
+      "symbol": "GSx",
+      "name": "Goldman Sachs xStock",
+      "mint": "XsgaUyp4jd1fNBCxgtTKkW64xnnhQcvgaxzsbAq5ZD1",
+      "trades": 1,
+      "shares": 0.00019869,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GSx.summary.json"
+    },
+    {
+      "symbol": "TSMx",
+      "name": "TSMC xStock",
+      "mint": "XsafvsGtzFqqHgTnA3aPC83EAMkacU5mcGtcSayhpVV",
+      "trades": 1,
+      "shares": 0.04491685,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TSMx.summary.json"
+    },
+    {
+      "symbol": "JNJx",
+      "name": "Johnson & Johnson xStock",
+      "mint": "XsGVi5eo1Dh2zUpic4qACcjuWGjNv8GCt3dm5XcX6Dn",
+      "trades": 1,
+      "shares": 0.09841921,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_JNJx.summary.json"
+    },
+    {
+      "symbol": "VCXx",
+      "name": "Fundrise Innovation Fund, LLC xStock",
+      "mint": "Xs7UsqobM3EJgMeHwdAbmDBCZH1G5WTCjatpeYcCr8x",
+      "trades": 1,
+      "shares": 2.04805003,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VCXx.summary.json"
+    },
+    {
+      "symbol": "SMHx",
+      "name": "VanEck Semiconductor ETF xStock",
+      "mint": "XstuBvLo7soZzj3beCCPonHpR3eUfPNSeQzw35Swons",
+      "trades": 1,
+      "shares": 0.10779211,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SMHx.summary.json"
+    },
+    {
+      "symbol": "TMOx",
+      "name": "Thermo Fisher xStock",
+      "mint": "Xs8drBWy3Sd5QY3aifG9kt9KFs2K3PGZmx7jWrsrk57",
+      "trades": 1,
+      "shares": 0.00025373,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TMOx.summary.json"
+    },
+    {
+      "symbol": "MRKx",
+      "name": "Merck xStock",
+      "mint": "XsnQnU7AdbRZYe2akqqpibDdXjkieGFfSkbkjX1Sd1X",
+      "trades": 1,
+      "shares": 0.0024941,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MRKx.summary.json"
+    },
+    {
+      "symbol": "CRWDx",
+      "name": "CrowdStrike xStock",
+      "mint": "Xs7xXqkcK7K8urEqGg52SECi79dRp2cEKKuYjUePYDw",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CRWDx.summary.json"
+    },
+    {
+      "symbol": "AMATx",
+      "name": "Applied Materials, Inc. xStock",
+      "mint": "XsQZdaWUAGC4R3fgD2N1fupKvJfJq6YM51ccnsLUWFA",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_AMATx.summary.json"
+    },
+    {
+      "symbol": "PWRx",
+      "name": "Quanta Services, Inc. xStock",
+      "mint": "XsLR2VCGNzYVLfJGEwwNZsRYDZBGyBnoQH5rPGvwodA",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PWRx.summary.json"
+    },
+    {
+      "symbol": "XLEx",
+      "name": "Energy Select Sector SPDR Fund xStock",
+      "mint": "Xs54CrhmpVp6uxZXwgSTegrRH2kShh88XFPzgf4BExu",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_XLEx.summary.json"
+    },
+    {
+      "symbol": "WULFx",
+      "name": "TeraWulf xStock",
+      "mint": "XsuwUbQSzCJN2wZabD1Gxf1MER2Ypa7hMzVMYB2WawJ",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_WULFx.summary.json"
+    },
+    {
+      "symbol": "EWGx",
+      "name": "iShares MSCI Germany xStock",
+      "mint": "XsM51PKxDNQBZR65VRxRjNqcMWUBoYwHeVn2FR6WXi9",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_EWGx.summary.json"
+    },
+    {
+      "symbol": "GEVx",
+      "name": "GE Vernova Inc. xStock",
+      "mint": "XswXzAsMV9kebQjCVtr1btvrQgQ7C4C9kKgH4QYAVzw",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GEVx.summary.json"
+    },
+    {
+      "symbol": "ETNx",
+      "name": "Eaton Corporation plc xStock",
+      "mint": "Xs8S5L4HkJpeBWF1J4oyUX6rVwGHmG7GZ7PiChPt7nY",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ETNx.summary.json"
+    },
+    {
+      "symbol": "VXUSx",
+      "name": "Vanguard Total International Stock ETF xStock",
+      "mint": "XsLT5v4DAd1kwViPQh3SZiT5kzJfNLxzJxJN1dySZTe",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VXUSx.summary.json"
+    },
+    {
+      "symbol": "MDTx",
+      "name": "Medtronic xStock",
+      "mint": "XsDgw22qRLTv5Uwuzn6T63cW69exG41T6gwQhEK22u2",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MDTx.summary.json"
+    },
+    {
+      "symbol": "ADBEx",
+      "name": "Adobe xStock",
+      "mint": "XsDZMGEU8zadWFCkTtPBoPWYcUX3JHVmghnwf2Mve2q",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ADBEx.summary.json"
+    },
+    {
+      "symbol": "GLXYx",
+      "name": "Galaxy Digital xStock",
+      "mint": "Xs3c2aZenyRQwXjki5MDxJEJ2km27ef2rWQMFWx7QKJ",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GLXYx.summary.json"
+    },
+    {
+      "symbol": "BTBTx",
+      "name": "Bit Digital xStock",
+      "mint": "XsPLBFy59Q3hY59KLAJur8QyvziMF4xUxGTxXqXE7cT",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BTBTx.summary.json"
+    },
+    {
+      "symbol": "BITXx",
+      "name": "Volatility Shares 2x Bitcoin Strategy xStock",
+      "mint": "XsraCsjDB8cYn672MZSxCzZBhrodEPXD7pWd5EiRUhm",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BITXx.summary.json"
+    },
+    {
+      "symbol": "HONx",
+      "name": "Honeywell xStock",
+      "mint": "XsRbLZthfABAPAfumWNEJhPyiKDW6TvDVeAeW7oKqA2",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_HONx.summary.json"
+    },
+    {
+      "symbol": "BTGOx",
+      "name": "Bitgo xStock",
+      "mint": "XsvHMmbDcd14DHHW16PkxPGW7ks77ehxUv1E9Zmxgj4",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BTGOx.summary.json"
+    },
+    {
+      "symbol": "EWUx",
+      "name": "iShares MSCI United Kingdom xStock",
+      "mint": "XsbWCMXPzLdZMLpPtiiWE7M99fySmsnK5eFCWGWfDQ8",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_EWUx.summary.json"
+    },
+    {
+      "symbol": "VUGx",
+      "name": "Vanguard Growth ETF xStock",
+      "mint": "XsNVBwVGqtDqmA2Waoiux5mfykH8nepLK74z3ZoQWK2",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VUGx.summary.json"
+    },
+    {
+      "symbol": "MOOx",
+      "name": "VanEck Agribusiness ETF xStock",
+      "mint": "Xs72K1Ta1D5ccNy3RzSyQWGgZywWvphX78pL8WBk1Bo",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MOOx.summary.json"
+    },
+    {
+      "symbol": "PPLTx",
+      "name": "abrdn Physical Platinum Shares xStock",
+      "mint": "Xst6eFD4YT6sz9RLMysN9SyvaZWtraSdVJQGu5ZkAme",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PPLTx.summary.json"
+    },
+    {
+      "symbol": "RBLXx",
+      "name": "Roblox xStock",
+      "mint": "Xss5RAku5EH6UViFdvW7ss9xQjwQLsrs2opPMhb3k43",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_RBLXx.summary.json"
+    },
+    {
+      "symbol": "TONXx",
+      "name": "TON xStock",
+      "mint": "XscE4GUcsYhcyZu5ATiGUMmhxYa1D5fwbpJw4K6K4dp",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TONXx.summary.json"
+    },
+    {
+      "symbol": "EWQx",
+      "name": "iShares MSCI France xStock",
+      "mint": "Xs1neEMHNaDDSHqE9nvDGkmuX73ZASKcLtQqwmVAQde",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_EWQx.summary.json"
+    },
+    {
+      "symbol": "ITAx",
+      "name": "iShares U.S. Aerospace & Defense ETF xStock",
+      "mint": "XsXoAR52Q2NYFkYiNqhCq4FauvyA1tdRsrmEYNf9fuh",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ITAx.summary.json"
+    },
+    {
+      "symbol": "VIDAx",
+      "name": "Vida Global xStock",
+      "mint": "XsfCC9VL4DamVGNgdJpfLXB3sBVa158Gbx8sh7NzmTk",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VIDAx.summary.json"
+    },
+    {
+      "symbol": "OKLOx",
+      "name": "Oklo xStock",
+      "mint": "XsJb1p4Ks6VFggq68JyMz7S3kdRfkqh4wA6EMyxi4DD",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_OKLOx.summary.json"
+    },
+    {
+      "symbol": "FGDLx",
+      "name": "Franklin Responsibly Sourced Gold ETF xStock",
+      "mint": "XspurdrAqbRJMQfAUEfh88QxE3XbSWxQGu3GneJR6e3",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FGDLx.summary.json"
+    },
+    {
+      "symbol": "HDx",
+      "name": "Home Depot xStock",
+      "mint": "XszjVtyhowGjSC5odCqBpW1CtXXwXjYokymrk7fGKD3",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_HDx.summary.json"
+    },
+    {
+      "symbol": "FAAAx",
+      "name": "Fidelity AAA CLO xStock",
+      "mint": "Xs8rb8QG9mEuQ41g2cUzuJLZt3xEPQFhvgb9s4obXSn",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FAAAx.summary.json"
+    },
+    {
+      "symbol": "VOOx",
+      "name": "Vanguard S&P 500 xStock",
+      "mint": "Xsd7TduTbjuYCFL7Uoujb8SbkZLmUsuYNLn7KdvX21x",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VOOx.summary.json"
+    },
+    {
+      "symbol": "VGKx",
+      "name": "Vanguard FTSE Europe ETF xStock",
+      "mint": "XsosCAu1L8Ebpr4SdBDV1EboYDRTWCH8j79UnHYzvbN",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VGKx.summary.json"
+    },
+    {
+      "symbol": "CLSKx",
+      "name": "CleanSpark xStock",
+      "mint": "Xsn3H7ACEpSF2ULxeiD6kW4jRZXpurh8ZPttyfoS56W",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CLSKx.summary.json"
+    },
+    {
+      "symbol": "PLx",
+      "name": "Planet Labs xStock",
+      "mint": "XsMJtFbb8BwzQtck3oRXyAfs7SAPRuTXnSEDNd7BAVz",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PLx.summary.json"
+    },
+    {
+      "symbol": "TERx",
+      "name": "Teradyne, Inc. xStock",
+      "mint": "Xsbe4fwmjVQEWEPkzfyxqNdPUUK7X9dKfTJrZdDbNgx",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TERx.summary.json"
+    },
+    {
+      "symbol": "USARx",
+      "name": "USA Rare Earth Inc. xStock",
+      "mint": "XsJJneENiaBPqqcdK1gMsfwi9cbw111azigzRYHoctX",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_USARx.summary.json"
+    },
+    {
+      "symbol": "CRMx",
+      "name": "Salesforce xStock",
+      "mint": "XsczbcQ3zfcgAEt9qHQES8pxKAVG5rujPSHQEXi4kaN",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CRMx.summary.json"
+    },
+    {
+      "symbol": "SOXXx",
+      "name": "iShares Semiconductor xStock",
+      "mint": "XsEsHeiNZf88sABxu74TPuXbQThdaQGdzPVZUBicjtQ",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SOXXx.summary.json"
+    },
+    {
+      "symbol": "KRAQx",
+      "name": "KRAQ xStock",
+      "mint": "XsAiRejKuvLAdq9KtedrMSrabz7SWdzKoVK6Qgac1Ki",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_KRAQx.summary.json"
+    },
+    {
+      "symbol": "GDXx",
+      "name": "VanEck Gold Miners xStock",
+      "mint": "XsVRhRg9eRE9PrsoPsAt5Mifa8mfjm9R3vdw6orp54j",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_GDXx.summary.json"
+    },
+    {
+      "symbol": "URAx",
+      "name": "Global X Uranium ETF xStock",
+      "mint": "Xsq9sEQjYiUTSZ55RrbHAzVfz8HotwFGrqgxkgiv4LB",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_URAx.summary.json"
+    },
+    {
+      "symbol": "XOPx",
+      "name": "SPDR S&P Oil & Gas Exploration & Production ETF xStock",
+      "mint": "XsAk6BoV4kBXUM6WXodKyM21CN92G9jArwAzFvbh3LX",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_XOPx.summary.json"
+    },
+    {
+      "symbol": "FSMLx",
+      "name": "Franklin Small Cap Enhanced xStock",
+      "mint": "Xs9nAeuqjogYHy2UfL6jYqGmM5MPrRjuz6UYk8H79mZ",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FSMLx.summary.json"
+    },
+    {
+      "symbol": "TBLLx",
+      "name": "TBLL xStock",
+      "mint": "XsqBC5tcVQLYt8wqGCHRnAUUecbRYXoJCReD6w7QEKp",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TBLLx.summary.json"
+    },
+    {
+      "symbol": "COPXx",
+      "name": "Global X Copper Miners xStock",
+      "mint": "XsybfiKkD4UmjkAGT2uR8X2sq9AWFtvGJM2KTffoALZ",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_COPXx.summary.json"
+    },
+    {
+      "symbol": "NLRx",
+      "name": "VanEck Uranium and Nuclear xStock",
+      "mint": "XsTSfxoQry8okZoGMN5t6mExibDq3gA2NDLJeLztX7E",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_NLRx.summary.json"
+    },
+    {
+      "symbol": "SMCIx",
+      "name": "Super Micro Computer, Inc. xStock",
+      "mint": "XsMxAoJP47FQGLsVUvSS2QfBaHdNsd7DRU6nWRL8RSa",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SMCIx.summary.json"
+    },
+    {
+      "symbol": "ASTSx",
+      "name": "AST SpaceMobile xStock",
+      "mint": "XsR4LAtaBgTKTRUhiijY1ba13nx4bepeEcag2Pr4dZ1",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ASTSx.summary.json"
+    },
+    {
+      "symbol": "HIMSx",
+      "name": "Hims & Hers xStock",
+      "mint": "XsprHSJzwz3qmHcEf7j7WcUk6hMUL4sPLuAdWaSY1oh",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_HIMSx.summary.json"
+    },
+    {
+      "symbol": "IEMGx",
+      "name": "Core MSCI Emerging Markets xStock",
+      "mint": "XsFnZawJdLdXfBSEt5Vw29K5vdBiHotdPLjUPafpfHs",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IEMGx.summary.json"
+    },
+    {
+      "symbol": "IJRx",
+      "name": "S&P Small Cap xStock",
+      "mint": "XsyZcb97BzETAqi9BoP2C9D196MiMNBisGMVNje2Thz",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IJRx.summary.json"
+    },
+    {
+      "symbol": "HUTx",
+      "name": "Hut 8 xStock",
+      "mint": "XsG5QyZTQnVSpsXRpD92K5ZGoxXjsmfTyx7fW7r18DV",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_HUTx.summary.json"
+    },
+    {
+      "symbol": "SMRx",
+      "name": "NuScale Power Corporation xStock",
+      "mint": "XsrwdnwLHjVnyy7fgE2Pdwjp3czEm73jPjkSC5xzUBw",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SMRx.summary.json"
+    },
+    {
+      "symbol": "TMUSx",
+      "name": "T-Mobile xStock",
+      "mint": "XswCi2U1G6Ppbw1QhG45yKb8UKuR1FKLJrquv2FZSD4",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_TMUSx.summary.json"
+    },
+    {
+      "symbol": "ASMLx",
+      "name": "ASML xStock",
+      "mint": "XshuHQ6o6SVpUNawvnnTMxsZ4tacZsNgVCLorv7TkFq",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ASMLx.summary.json"
+    },
+    {
+      "symbol": "LRCXx",
+      "name": "Lam Research Corporation xStock",
+      "mint": "XsSN912SN4Whn2xn59vWZHt1uLbw9WnoNGp5MigmHFf",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_LRCXx.summary.json"
+    },
+    {
+      "symbol": "ABBVx",
+      "name": "AbbVie xStock",
+      "mint": "XswbinNKyPmzTa5CskMbCPvMW6G5CMnZXZEeQSSQoie",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ABBVx.summary.json"
+    },
+    {
+      "symbol": "NETx",
+      "name": "Cloudflare xStock",
+      "mint": "XsR3LAMkzuPP8DnfYaiB2grTWqkBVy286gjJVErK1bi",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_NETx.summary.json"
+    },
+    {
+      "symbol": "DAXx",
+      "name": "Global X DAX Germany xStock",
+      "mint": "XsKbKZ6e1BtERDn2cF11WkpVwvzSWCrf83AMafgnMQT",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_DAXx.summary.json"
+    },
+    {
+      "symbol": "LINx",
+      "name": "Linde xStock",
+      "mint": "XsSr8anD1hkvNMu8XQiVcmiaTP7XGvYu7Q58LdmtE8Z",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_LINx.summary.json"
+    },
+    {
+      "symbol": "UBERx",
+      "name": "Uber xStock",
+      "mint": "XsAsZLF4MmsvS1sDxRMrUz7REjHfwbC9UAMXSRBqgEB",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_UBERx.summary.json"
+    },
+    {
+      "symbol": "CEGx",
+      "name": "Constellation Energy Corporation xStock",
+      "mint": "Xssu2cDLdZXZYrq17frTVrb3meumRCAzEf7pXyxoWVN",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CEGx.summary.json"
+    },
+    {
+      "symbol": "SLMTx",
+      "name": "Brera xStock",
+      "mint": "XsPHkGBbztHCCe1RMhiAs7CxVqoghmyd6zDUfrbfVWG",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SLMTx.summary.json"
+    },
+    {
+      "symbol": "FLQMx",
+      "name": "Franklin U.S. Mid Cap Multi-Factor xStock",
+      "mint": "XsZdwvwEAn7KH8bCCo8AkxJmSm4MbaRxcDeh9Gt2VTF",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FLQMx.summary.json"
+    },
+    {
+      "symbol": "ONDSx",
+      "name": "Ondas xStock",
+      "mint": "Xsgc9YTqdAH1GzDLBGQcScCMgkKsVBn4hBmqtNRospY",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ONDSx.summary.json"
+    },
+    {
+      "symbol": "OPENx",
+      "name": "OPEN xStock",
+      "mint": "XsGtpmjhmC8kyjVSWL4VicGu36ceq9u55PTgF8bhGv6",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_OPENx.summary.json"
+    },
+    {
+      "symbol": "RCATx",
+      "name": "Red Cat xStock",
+      "mint": "Xs6yCfUGbkjcvivWr4crLR7pJGxEXspsuuUMhxNEEUw",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_RCATx.summary.json"
+    },
+    {
+      "symbol": "EWYx",
+      "name": "iShares MSCI South Korea xStock",
+      "mint": "XswenHXJtDWYMh89uRYx2tZcABxwXSn7j3jidDPS1Yo",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_EWYx.summary.json"
+    },
+    {
+      "symbol": "FLBLx",
+      "name": "Franklin Senior Loan xStock",
+      "mint": "XsCZJYnCmjs5cYZDMLVxVzvMy5AK2oqsWpobS6SYno8",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FLBLx.summary.json"
+    },
+    {
+      "symbol": "BACx",
+      "name": "Bank of America xStock",
+      "mint": "XswsQk4duEQmCbGzfqUUWYmi7pV7xpJ9eEmLHXCaEQP",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_BACx.summary.json"
+    },
+    {
+      "symbol": "PMx",
+      "name": "Philip Morris xStock",
+      "mint": "Xsba6tUnSjDae2VcopDB6FGGDaxRrewFCDa5hKn5vT3",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PMx.summary.json"
+    },
+    {
+      "symbol": "SOXLx",
+      "name": "Direxion Semiconductor Bull 3X xStock",
+      "mint": "XsdZDkoMdUb6iKDAKKappuM7C1Q2HmTqC8jNujbfmCu",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SOXLx.summary.json"
+    },
+    {
+      "symbol": "SGOVx",
+      "name": "iShares 0-3 Month Treasury Bond ETF xStock",
+      "mint": "XsYD72ntjj7ZwoFDZCDmN2gamTcLpnywqvG7PQN5vCN",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SGOVx.summary.json"
+    },
+    {
+      "symbol": "MARAx",
+      "name": "MARA xStock",
+      "mint": "XsguBZPkM9BDmxspmWe29EmrYZBv21ENcC27Pqh7grB",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_MARAx.summary.json"
+    },
+    {
+      "symbol": "APLDx",
+      "name": "Applied Digital Corporation xStock",
+      "mint": "Xs2ZEuDVSQkNnXHqfqEYKVShLHpecyKfdfpEYwiHtQE",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_APLDx.summary.json"
+    },
+    {
+      "symbol": "ENHAx",
+      "name": "Enhanced Group xStock",
+      "mint": "XsGAnis8BY5TLxEGdPY1LeeqY1DHPcUkkBQWRyQaJya",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ENHAx.summary.json"
+    },
+    {
+      "symbol": "JAAAx",
+      "name": "Janus Henderson AAA CLO xStock",
+      "mint": "XsEYQJtVa51Ww3y28jV1FwheMgmDj8BpxYiCPThcLWW",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_JAAAx.summary.json"
+    },
+    {
+      "symbol": "USPXx",
+      "name": "Franklin U.S. Equity Index xStock",
+      "mint": "XsBNz5UKYqcALjS5Xnm7HesMapyKLxkmfWPGHBek36x",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_USPXx.summary.json"
+    },
+    {
+      "symbol": "CORZx",
+      "name": "Core Scientific xStock",
+      "mint": "XsBGEXxbBcuu8Nrokj14G8v4ezT3JYWWLneTzXK8t6Z",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_CORZx.summary.json"
+    },
+    {
+      "symbol": "SATAx",
+      "name": "Strive, Inc. Series A Preferred xStock",
+      "mint": "XsAxB3xLnt7xto5ChiSbVNHBoXcXzKuzS7FieiNYwtY",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SATAx.summary.json"
+    },
+    {
+      "symbol": "UUUUx",
+      "name": "Energy Fuels Inc. xStock",
+      "mint": "XsYHvpLWfTfqdLkPbCc4eUT21eH521BRTXBypgzpEDH",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_UUUUx.summary.json"
+    },
+    {
+      "symbol": "LNGx",
+      "name": "Cheniere Energy xStock",
+      "mint": "XsYLZdcMYST418xZhTV6KaHqr8BWqaKS3J45ywqigF9",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_LNGx.summary.json"
+    },
+    {
+      "symbol": "SCHFx",
+      "name": "Schwab International Equity xStock",
+      "mint": "XsWAnFM77x6YvpdaZoos79R12o4Yj4r7EVkaTWddzhU",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SCHFx.summary.json"
+    },
+    {
+      "symbol": "PYPLx",
+      "name": "PayPal xStock",
+      "mint": "XshWQWYVp5ff8CrAEsGmLVKD47nBWi3Ygn5v8wXK27G",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PYPLx.summary.json"
+    },
+    {
+      "symbol": "WBDx",
+      "name": "Warner Bros. Discovery xStock",
+      "mint": "XsZUSqxAXKJkEimvD4CoVvEb4WUC92TFgj5zRtBxFeL",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_WBDx.summary.json"
+    },
+    {
+      "symbol": "FEZx",
+      "name": "SPDR EURO STOXX 50 xStock",
+      "mint": "XsbZDdYJKxEBQASz4KBj23NRgymXw2NK6mbNQ6PYhC7",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_FEZx.summary.json"
+    },
+    {
+      "symbol": "IWMx",
+      "name": "Russell 2000 xStock",
+      "mint": "XsbELVbLGBkn7xfMfyYuUipKGt1iRUc2B7pYRvFTFu3",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IWMx.summary.json"
+    },
+    {
+      "symbol": "DHRx",
+      "name": "Danaher xStock",
+      "mint": "Xseo8tgCZfkHxWS9xbFYeKFyMSbWEvZGFV1Gh53GtCV",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_DHRx.summary.json"
+    },
+    {
+      "symbol": "JPSTx",
+      "name": "JPMorgan Ultra-Short Income xStock",
+      "mint": "XsCAXu7xTaZMG9b9KJhNWYapuvNjxPuE4SysZq8uvMq",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_JPSTx.summary.json"
+    },
+    {
+      "symbol": "SBETx",
+      "name": "SharpLink Gaming xStock",
+      "mint": "XsEoih2x6nZuUjFwzGoba6MFmtzCkzW2c4YAm6baQbq",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SBETx.summary.json"
+    },
+    {
+      "symbol": "SPCEx",
+      "name": "Virgin Galactic xStock",
+      "mint": "Xsgrm4D6VBTfDx5bs7GNdjtmWDgZ8V79r3YpsYwf5py",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_SPCEx.summary.json"
+    },
+    {
+      "symbol": "PANWx",
+      "name": "Palo Alto Networks xStock",
+      "mint": "XsQ6NfzzLH8nspjrB9X8R2K64Zz7Tnxqu12juDiMPMW",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PANWx.summary.json"
+    },
+    {
+      "symbol": "VRTx",
+      "name": "Vertiv Holdings Co xStock",
+      "mint": "XsLUiVEwYeoneKpgR1C2Q4DBUZhX4xDktSCfQqq8zmn",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_VRTx.summary.json"
+    },
+    {
+      "symbol": "YLDEx",
+      "name": "Franklin ClearBridge Enhanced Income xStock",
+      "mint": "Xs4uZnG2mzZQKgnmuYboj1PRBtascAvWh5NdVMfz2aW",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_YLDEx.summary.json"
+    },
+    {
+      "symbol": "PALLx",
+      "name": "abrdn Physical Palladium Shares xStock",
+      "mint": "XsTTtPA5V19YwHKDv4xeVXNM6kdsQNJvg3MyWkRUckt",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_PALLx.summary.json"
+    },
+    {
+      "symbol": "IQMx",
+      "name": "Franklin Intelligent Machines xStock",
+      "mint": "XsGqU2JhofxjZBBhuXAroJGdiyZdvbx64tPx1Mu6DVK",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IQMx.summary.json"
+    },
+    {
+      "symbol": "ANETx",
+      "name": "Arista Networks, Inc. xStock",
+      "mint": "XsrsM2RgtYxXqxmy4iWgxQJUkkHG1U5wzi74sVNUW8m",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_ANETx.summary.json"
+    },
+    {
+      "symbol": "IRENx",
+      "name": "IREN xStock",
+      "mint": "Xshh1dRsnxatP45yBfrzU9MrvrFCvxHQGTrWjgdA81E",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_IRENx.summary.json"
+    },
+    {
+      "symbol": "LITEx",
+      "name": "Lumentum Holdings Inc. xStock",
+      "mint": "XsexQ9qqNbDkLE6XwCN9ceVhLo8Lxc7UheVR6eBkKyo",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_LITEx.summary.json"
+    },
+    {
+      "symbol": "KLACx",
+      "name": "KLA Corporation xStock",
+      "mint": "Xsw2uU1i8tHjbgstUbtt3m6kg7BS7AgG5aj8z7ddmmN",
+      "trades": 0,
+      "shares": 0.0,
+      "file": "dashboard_0001_xstocks_analysis/summaries/transfers_KLACx.summary.json"
+    }
+  ]
+}

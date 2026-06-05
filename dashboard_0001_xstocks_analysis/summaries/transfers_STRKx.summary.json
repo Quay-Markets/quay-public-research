@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 7.42561412,
+      "volume_raw": "742561412"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "volume": 7.42561412,
+      "volume_raw": "742561412"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 2,
+      "level": 2,
+      "volume": 7.42561412,
+      "volume_raw": "742561412"
+    }
+  ],
+  "max_block_time": 1780518786,
+  "max_slot": 424099716,
+  "max_time_utc": "2026-06-03T20:33:06Z",
+  "min_block_time": 1780518553,
+  "min_slot": 424099136,
+  "min_time_utc": "2026-06-03T20:29:13Z",
+  "mint": "XsaQGz41BEQkS9xAB44uvUtuXcdLJAXEU1dogEzWMZ8",
+  "name": "Strategy PP Fixed xStock",
+  "router_histogram": [
+    {
+      "count": 2,
+      "router": "Jupiter Order Engine",
+      "volume": 7.42561412,
+      "volume_raw": "742561412"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "STRKx",
+  "transfers": 2,
+  "txs": 6,
+  "txs_with_transfer": 2,
+  "txs_without_transfer": 4,
+  "volume": 7.42561412,
+  "volume_raw": "742561412",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

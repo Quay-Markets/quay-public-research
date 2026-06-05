@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 109.24390123,
+      "volume_raw": "10924390123"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 4,
+      "volume": 109.24390123,
+      "volume_raw": "10924390123"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 4,
+      "level": 2,
+      "volume": 109.24390123,
+      "volume_raw": "10924390123"
+    }
+  ],
+  "max_block_time": 1780529784,
+  "max_slot": 424127322,
+  "max_time_utc": "2026-06-03T23:36:24Z",
+  "min_block_time": 1780446028,
+  "min_slot": 423916916,
+  "min_time_utc": "2026-06-03T00:20:28Z",
+  "mint": "Xsu7Tc5J2fVUE4H5vYAiSr34cvLJeCsYPMjAYnayQn6",
+  "name": "Dell Technologies Inc. xStock",
+  "router_histogram": [
+    {
+      "count": 4,
+      "router": "Jupiter Order Engine",
+      "volume": 109.24390123,
+      "volume_raw": "10924390123"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "DELLx",
+  "transfers": 4,
+  "txs": 15,
+  "txs_with_transfer": 4,
+  "txs_without_transfer": 11,
+  "volume": 109.24390123,
+  "volume_raw": "10924390123",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

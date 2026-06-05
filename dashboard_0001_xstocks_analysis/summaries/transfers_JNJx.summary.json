@@ -1,0 +1,53 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.09841921,
+      "volume_raw": "9841921"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "volume": 0.09841921,
+      "volume_raw": "9841921"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 2,
+      "volume": 0.09841921,
+      "volume_raw": "9841921"
+    }
+  ],
+  "max_block_time": 1780489229,
+  "max_slot": 424025492,
+  "max_time_utc": "2026-06-03T12:20:29Z",
+  "min_block_time": 1780447894,
+  "min_slot": 423921612,
+  "min_time_utc": "2026-06-03T00:51:34Z",
+  "mint": "XsGVi5eo1Dh2zUpic4qACcjuWGjNv8GCt3dm5XcX6Dn",
+  "name": "Johnson & Johnson xStock",
+  "router_histogram": [],
+  "subdivisions": 0,
+  "symbol": "JNJx",
+  "transfers": 1,
+  "txs": 3,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 2,
+  "volume": 0.09841921,
+  "volume_raw": "9841921",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

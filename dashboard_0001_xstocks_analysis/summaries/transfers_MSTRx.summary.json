@@ -1,0 +1,1426 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 2466,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 6422.06514156,
+      "volume_raw": "642206514156"
+    },
+    {
+      "class": "router",
+      "count": 76,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 1432.54193184,
+      "volume_raw": "143254193184"
+    },
+    {
+      "class": "hft_bot",
+      "count": 864,
+      "path": "HFT bot (CoTh2v)/Raydium CLMM",
+      "raw_path": "CoTh2vLV87d3wBM7pgLYkkh4q7WBKcVGnVzL3ABuwVR4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1384.17724111,
+      "volume_raw": "138417724111"
+    },
+    {
+      "class": "hft_bot",
+      "count": 380,
+      "path": "HFT bot (3URu)/Raydium CLMM",
+      "raw_path": "3URuDiCXFYJ95YVeDW8MP3b7CKTnuqArY5GTZA2JnPWQ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 770.22566237,
+      "volume_raw": "77022566237"
+    },
+    {
+      "class": "router",
+      "count": 1614,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 704.7271429,
+      "volume_raw": "70472714290"
+    },
+    {
+      "class": "router",
+      "count": 113,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 533.37053307,
+      "volume_raw": "53337053307"
+    },
+    {
+      "class": "router",
+      "count": 570,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 504.36950939,
+      "volume_raw": "50436950939"
+    },
+    {
+      "class": "direct_dex",
+      "count": 428,
+      "path": "Byreal CLMM",
+      "raw_path": "REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 415.09335456,
+      "volume_raw": "41509335456"
+    },
+    {
+      "class": "router",
+      "count": 95,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 316.54517797,
+      "volume_raw": "31654517797"
+    },
+    {
+      "class": "router",
+      "count": 43,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 160.71262835,
+      "volume_raw": "16071262835"
+    },
+    {
+      "class": "unknown",
+      "count": 93,
+      "path": "5cS6scvwkemE9bRtZSpbUwUdzKrZLaSFkPWm9QejaVLk/Raydium CLMM",
+      "raw_path": "5cS6scvwkemE9bRtZSpbUwUdzKrZLaSFkPWm9QejaVLk/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 131.55829568,
+      "volume_raw": "13155829568"
+    },
+    {
+      "class": "router",
+      "count": 63,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 105.24891833,
+      "volume_raw": "10524891833"
+    },
+    {
+      "class": "router",
+      "count": 144,
+      "path": "Raydium Route/Raydium CLMM",
+      "raw_path": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 103.9683923,
+      "volume_raw": "10396839230"
+    },
+    {
+      "class": "router",
+      "count": 26,
+      "path": "ByReal Router/Byreal CLMM",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 93.9137531,
+      "volume_raw": "9391375310"
+    },
+    {
+      "class": "router",
+      "count": 16,
+      "path": "Raydium CLMM Position Manager/Raydium CLMM",
+      "raw_path": "9hFYKmiJd1CZAcsTLR7xTbswj9Wy7aryqhT7RpbZYReP/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 78.51599047,
+      "volume_raw": "7851599047"
+    },
+    {
+      "class": "router",
+      "count": 565,
+      "path": "Jupiter v6/Byreal CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 68.67385253,
+      "volume_raw": "6867385253"
+    },
+    {
+      "class": "unknown",
+      "count": 4,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/Raydium CLMM",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 61.00647702,
+      "volume_raw": "6100647702"
+    },
+    {
+      "class": "router",
+      "count": 62,
+      "path": "BGW Aggregator/Raydium CLMM",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 52.20424398,
+      "volume_raw": "5220424398"
+    },
+    {
+      "class": "unknown",
+      "count": 6,
+      "path": "F2ZYgyh8YDG6rHo9F1T8Aw4WoTyy8eYN3GgM2LaPKcZN",
+      "raw_path": "F2ZYgyh8YDG6rHo9F1T8Aw4WoTyy8eYN3GgM2LaPKcZN",
+      "volume": 44.41381191,
+      "volume_raw": "4441381191"
+    },
+    {
+      "class": "hft_bot",
+      "count": 21,
+      "path": "HFT bot (rexhfZ)/Raydium CLMM",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 39.65415888,
+      "volume_raw": "3965415888"
+    },
+    {
+      "class": "hft_bot",
+      "count": 20,
+      "path": "HFT bot (3URu)/Byreal CLMM",
+      "raw_path": "3URuDiCXFYJ95YVeDW8MP3b7CKTnuqArY5GTZA2JnPWQ/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 37.42110719,
+      "volume_raw": "3742110719"
+    },
+    {
+      "class": "router",
+      "count": 31,
+      "path": "OKX DEX Router/Byreal CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 33.28718412,
+      "volume_raw": "3328718412"
+    },
+    {
+      "class": "router",
+      "count": 136,
+      "path": "Titan Router/Byreal CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 32.54210573,
+      "volume_raw": "3254210573"
+    },
+    {
+      "class": "unknown",
+      "count": 13,
+      "path": "BwRZQcpiqQrQkpfWJDxzcpojPRmTB21FoVQYkcZBBReo/Raydium CLMM",
+      "raw_path": "BwRZQcpiqQrQkpfWJDxzcpojPRmTB21FoVQYkcZBBReo/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 29.78747588,
+      "volume_raw": "2978747588"
+    },
+    {
+      "class": "router",
+      "count": 1167,
+      "path": "Jupiter v6/Orca Whirlpool",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 25.56132553,
+      "volume_raw": "2556132553"
+    },
+    {
+      "class": "hft_bot",
+      "count": 295,
+      "path": "HFT bot (9Zzf9Q)/Raydium CLMM",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 24.57845592,
+      "volume_raw": "2457845592"
+    },
+    {
+      "class": "router",
+      "count": 10,
+      "path": "ByReal Router/Jupiter v6/Raydium CLMM",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 24.2301784,
+      "volume_raw": "2423017840"
+    },
+    {
+      "class": "router",
+      "count": 35,
+      "path": "BGW Aggregator/Byreal CLMM",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 16.58012083,
+      "volume_raw": "1658012083"
+    },
+    {
+      "class": "hft_bot",
+      "count": 76,
+      "path": "HFT bot (theovTrk)/Raydium CLMM",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 15.29151102,
+      "volume_raw": "1529151102"
+    },
+    {
+      "class": "hft_bot",
+      "count": 178,
+      "path": "HFT bot (E52MR3)/Raydium CLMM",
+      "raw_path": "E52MR3wWQJG7mdBxLbw5tLcpF7DNzBWFKfacQ1HFSVrv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 14.32815695,
+      "volume_raw": "1432815695"
+    },
+    {
+      "class": "router",
+      "count": 25,
+      "path": "DFlow Aggregator v4/Byreal CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 13.05782787,
+      "volume_raw": "1305782787"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "Arb bot (Cmv6fT)/Raydium CLMM",
+      "raw_path": "Cmv6fTsiNdLkVR2zSge7B9oFGf7LS6F4zteA73331XW8/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 11.98083492,
+      "volume_raw": "1198083492"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (9i7Qdb)/Raydium CLMM",
+      "raw_path": "9i7QdbBHx7fjLAAaFfcDRgkdS4oNfKv8duzyE27a1kJ6/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 11.44109812,
+      "volume_raw": "1144109812"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX Vault/OKX DEX Router",
+      "raw_path": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH/proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u",
+      "volume": 11.40314074,
+      "volume_raw": "1140314074"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX Vault/OKX DEX Router/Raydium CLMM",
+      "raw_path": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH/proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 11.40314074,
+      "volume_raw": "1140314074"
+    },
+    {
+      "class": "direct_dex",
+      "count": 58,
+      "path": "Orca Whirlpool",
+      "raw_path": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 11.17529363,
+      "volume_raw": "1117529363"
+    },
+    {
+      "class": "hft_bot",
+      "count": 30,
+      "path": "HFT bot (MyS6zf)/Raydium CLMM",
+      "raw_path": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 9.22687254,
+      "volume_raw": "922687254"
+    },
+    {
+      "class": "hft_bot",
+      "count": 16,
+      "path": "HFT bot (DDsnwb)/Raydium CLMM",
+      "raw_path": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 8.54967745,
+      "volume_raw": "854967745"
+    },
+    {
+      "class": "router",
+      "count": 16,
+      "path": "DFlow Aggregator v4",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "volume": 8.18171554,
+      "volume_raw": "818171554"
+    },
+    {
+      "class": "hft_bot",
+      "count": 28,
+      "path": "HFT bot (L6pUpk)/Raydium CLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 7.95771583,
+      "volume_raw": "795771583"
+    },
+    {
+      "class": "unknown",
+      "count": 32,
+      "path": "REALp6iMBDTctQqpmhBo4PumwJGcybbnDpxtax3ara3/Byreal CLMM",
+      "raw_path": "REALp6iMBDTctQqpmhBo4PumwJGcybbnDpxtax3ara3/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 7.68388745,
+      "volume_raw": "768388745"
+    },
+    {
+      "class": "hft_bot",
+      "count": 32,
+      "path": "HFT bot (NinafK)/Jupiter v6/Raydium CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 7.45158393,
+      "volume_raw": "745158393"
+    },
+    {
+      "class": "router",
+      "count": 215,
+      "path": "Jupiter v6/Meteora DLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 6.28797188,
+      "volume_raw": "628797188"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "Swap router (LiApkFT)/Raydium CLMM",
+      "raw_path": "LiApkFTR9qVaGQgb4hykwbw7ir3ZPPMmE1zNPiakVGh/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 6.19113836,
+      "volume_raw": "619113836"
+    },
+    {
+      "class": "hft_bot",
+      "count": 8,
+      "path": "HFT bot (rexhfZ)/Byreal CLMM",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 5.54152095,
+      "volume_raw": "554152095"
+    },
+    {
+      "class": "unknown",
+      "count": 29,
+      "path": "EqcNQD8WfjNvvmBEkmeLDyEygfnbEtaRZpso1LZYnxuk/Orca Whirlpool",
+      "raw_path": "EqcNQD8WfjNvvmBEkmeLDyEygfnbEtaRZpso1LZYnxuk/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 5.48701934,
+      "volume_raw": "548701934"
+    },
+    {
+      "class": "hft_bot",
+      "count": 44,
+      "path": "HFT bot (theovTrk)/Byreal CLMM",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 5.47412575,
+      "volume_raw": "547412575"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "jesterKqzZ7hWfNLnUDeB8WtMrm7a44g2vSyhs7WmyT/Raydium CLMM",
+      "raw_path": "jesterKqzZ7hWfNLnUDeB8WtMrm7a44g2vSyhs7WmyT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 4.95668732,
+      "volume_raw": "495668732"
+    },
+    {
+      "class": "hft_bot",
+      "count": 13,
+      "path": "HFT bot (boyftq7)/Raydium CLMM",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 3.90675045,
+      "volume_raw": "390675045"
+    },
+    {
+      "class": "router",
+      "count": 31,
+      "path": "BGW Aggregator/Orca Whirlpool",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 3.89887815,
+      "volume_raw": "389887815"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (King7k)/Raydium CLMM",
+      "raw_path": "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 3.68731322,
+      "volume_raw": "368731322"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (King7k)/Byreal CLMM",
+      "raw_path": "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 3.4098603,
+      "volume_raw": "340986030"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Mayan Swift",
+      "raw_path": "mayan34VedncxdK2XobtvWFDXQASUTBXhUVzt2kKgny",
+      "volume": 3.33180853,
+      "volume_raw": "333180853"
+    },
+    {
+      "class": "hft_bot",
+      "count": 9,
+      "path": "HFT bot (7obtMdi)/Raydium CLMM",
+      "raw_path": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 3.23040629,
+      "volume_raw": "323040629"
+    },
+    {
+      "class": "hft_bot",
+      "count": 19,
+      "path": "HFT bot (sattCHv)/Raydium CLMM",
+      "raw_path": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 3.08095259,
+      "volume_raw": "308095259"
+    },
+    {
+      "class": "router",
+      "count": 57,
+      "path": "OKX DEX Router/Orca Whirlpool",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 3.00367505,
+      "volume_raw": "300367505"
+    },
+    {
+      "class": "hft_bot",
+      "count": 15,
+      "path": "HFT bot (NinafK)/Jupiter v6/Byreal CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.99304241,
+      "volume_raw": "299304241"
+    },
+    {
+      "class": "hft_bot",
+      "count": 19,
+      "path": "HFT bot (7obtMdi)/Byreal CLMM",
+      "raw_path": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.92896835,
+      "volume_raw": "292896835"
+    },
+    {
+      "class": "hft_bot",
+      "count": 17,
+      "path": "HFT bot (sattCHv)/Byreal CLMM",
+      "raw_path": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.84492191,
+      "volume_raw": "284492191"
+    },
+    {
+      "class": "hft_bot",
+      "count": 53,
+      "path": "HFT bot (giftBX9q)/Raydium CLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2.83358687,
+      "volume_raw": "283358687"
+    },
+    {
+      "class": "direct_dex",
+      "count": 9,
+      "path": "Meteora DLMM",
+      "raw_path": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 2.6465678,
+      "volume_raw": "264656780"
+    },
+    {
+      "class": "hft_bot",
+      "count": 16,
+      "path": "HFT bot (L6pUpk)/Byreal CLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.60610705,
+      "volume_raw": "260610705"
+    },
+    {
+      "class": "hft_bot",
+      "count": 22,
+      "path": "HFT bot (5mngCU)/Raydium CLMM",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2.57449288,
+      "volume_raw": "257449288"
+    },
+    {
+      "class": "unknown",
+      "count": 48,
+      "path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/Raydium CLMM",
+      "raw_path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2.48350574,
+      "volume_raw": "248350574"
+    },
+    {
+      "class": "router",
+      "count": 34,
+      "path": "DFlow Aggregator v4/Orca Whirlpool",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 2.47508037,
+      "volume_raw": "247508037"
+    },
+    {
+      "class": "hft_bot",
+      "count": 63,
+      "path": "HFT bot (9Zzf9Q)/Byreal CLMM",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.18646923,
+      "volume_raw": "218646923"
+    },
+    {
+      "class": "router",
+      "count": 435,
+      "path": "Titan Router/Orca Whirlpool",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 2.063969,
+      "volume_raw": "206396900"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (boyftq7)/Byreal CLMM",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.95486015,
+      "volume_raw": "195486015"
+    },
+    {
+      "class": "unknown",
+      "count": 4,
+      "path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X",
+      "raw_path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X",
+      "volume": 1.81153847,
+      "volume_raw": "181153847"
+    },
+    {
+      "class": "hft_bot",
+      "count": 158,
+      "path": "HFT bot (9Zzf9Q)/Orca Whirlpool",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 1.72466442,
+      "volume_raw": "172466442"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "Arb bot (MtvwNH8)/Raydium CLMM",
+      "raw_path": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.64867183,
+      "volume_raw": "164867183"
+    },
+    {
+      "class": "hft_bot",
+      "count": 9,
+      "path": "HFT bot (MyS6zf)/Byreal CLMM",
+      "raw_path": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.62502174,
+      "volume_raw": "162502174"
+    },
+    {
+      "class": "hft_bot",
+      "count": 14,
+      "path": "HFT bot (5mngCU)/Byreal CLMM",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.48310677,
+      "volume_raw": "148310677"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X/Jupiter v6/Raydium CLMM",
+      "raw_path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.44947773,
+      "volume_raw": "144947773"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "ByReal Router/Jupiter v6/Byreal CLMM",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.38485151,
+      "volume_raw": "138485151"
+    },
+    {
+      "class": "hft_bot",
+      "count": 15,
+      "path": "HFT bot (E4D7pxG)/Byreal CLMM",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.06408328,
+      "volume_raw": "106408328"
+    },
+    {
+      "class": "hft_bot",
+      "count": 15,
+      "path": "HFT bot (E4D7pxG)/Orca Whirlpool",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 1.06408328,
+      "volume_raw": "106408328"
+    },
+    {
+      "class": "hft_bot",
+      "count": 22,
+      "path": "HFT bot (7obtMdi)/Orca Whirlpool",
+      "raw_path": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 1.0372383,
+      "volume_raw": "103723830"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "42y8Bp3NX2CmSF8roUzPPgRXqWcdvssYsd1eprLqB8Eo/Raydium CLMM",
+      "raw_path": "42y8Bp3NX2CmSF8roUzPPgRXqWcdvssYsd1eprLqB8Eo/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.93892386,
+      "volume_raw": "93892386"
+    },
+    {
+      "class": "hft_bot",
+      "count": 34,
+      "path": "HFT bot (giftBX9q)/Orca Whirlpool",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.87359395,
+      "volume_raw": "87359395"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "zod11Jzp72T6qBbGVJfR38y1pGY3dBK8nSuouD4mMkZ",
+      "raw_path": "zod11Jzp72T6qBbGVJfR38y1pGY3dBK8nSuouD4mMkZ",
+      "volume": 0.86727552,
+      "volume_raw": "86727552"
+    },
+    {
+      "class": "unknown",
+      "count": 33,
+      "path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/Orca Whirlpool",
+      "raw_path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.8041634,
+      "volume_raw": "80416340"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "2En5Y11SEAGLNmEezTuRUCwTyzyNReHaMbSnS5gjGsL1",
+      "raw_path": "2En5Y11SEAGLNmEezTuRUCwTyzyNReHaMbSnS5gjGsL1",
+      "volume": 0.78148719,
+      "volume_raw": "78148719"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "8qq1JEotvswJzr2dwx6SS3SwT7VH26nuQ3oV65FX7uUj/Raydium CLMM",
+      "raw_path": "8qq1JEotvswJzr2dwx6SS3SwT7VH26nuQ3oV65FX7uUj/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.7391573,
+      "volume_raw": "73915730"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "8qq1JEotvswJzr2dwx6SS3SwT7VH26nuQ3oV65FX7uUj/Byreal CLMM",
+      "raw_path": "8qq1JEotvswJzr2dwx6SS3SwT7VH26nuQ3oV65FX7uUj/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.7391573,
+      "volume_raw": "73915730"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "PytERJFhAKuNNuaiXkApLfWzwNwSNDACpigT3LwQfou",
+      "raw_path": "PytERJFhAKuNNuaiXkApLfWzwNwSNDACpigT3LwQfou",
+      "volume": 0.73662542,
+      "volume_raw": "73662542"
+    },
+    {
+      "class": "router",
+      "count": 17,
+      "path": "OKX DEX Router/Meteora DLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.73642732,
+      "volume_raw": "73642732"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/Raydium CLMM",
+      "raw_path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.67583345,
+      "volume_raw": "67583345"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/Byreal CLMM",
+      "raw_path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.67583345,
+      "volume_raw": "67583345"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "HFT bot (theovTrk)/Meteora DLMM",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.55600841,
+      "volume_raw": "55600841"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "42y8Bp3NX2CmSF8roUzPPgRXqWcdvssYsd1eprLqB8Eo/Byreal CLMM",
+      "raw_path": "42y8Bp3NX2CmSF8roUzPPgRXqWcdvssYsd1eprLqB8Eo/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.5378997,
+      "volume_raw": "53789970"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "HFT bot (MyS6zf)/Orca Whirlpool",
+      "raw_path": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.49785297,
+      "volume_raw": "49785297"
+    },
+    {
+      "class": "unknown",
+      "count": 17,
+      "path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/Orca Whirlpool",
+      "raw_path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.48473517,
+      "volume_raw": "48473517"
+    },
+    {
+      "class": "router",
+      "count": 6,
+      "path": "DFlow Aggregator v4/Meteora DLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.47939572,
+      "volume_raw": "47939572"
+    },
+    {
+      "class": "hft_bot",
+      "count": 12,
+      "path": "HFT bot (E52MR3)/Meteora DLMM",
+      "raw_path": "E52MR3wWQJG7mdBxLbw5tLcpF7DNzBWFKfacQ1HFSVrv/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.41303235,
+      "volume_raw": "41303235"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "BGW Aggregator/Meteora DLMM",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.39131203,
+      "volume_raw": "39131203"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (rexhfZ)/Orca Whirlpool",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.38952479,
+      "volume_raw": "38952479"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (JET9RND)/Raydium CLMM",
+      "raw_path": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.38524972,
+      "volume_raw": "38524972"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "SQDS4ep65T869zMMBKyuUq6aD6EgTu8psMjkvj52pCf",
+      "raw_path": "SQDS4ep65T869zMMBKyuUq6aD6EgTu8psMjkvj52pCf",
+      "volume": 0.3847671,
+      "volume_raw": "38476710"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "SQDS4ep65T869zMMBKyuUq6aD6EgTu8psMjkvj52pCf/Raydium CLMM",
+      "raw_path": "SQDS4ep65T869zMMBKyuUq6aD6EgTu8psMjkvj52pCf/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.3847671,
+      "volume_raw": "38476710"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (JET9RND)/Byreal CLMM",
+      "raw_path": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.38383605,
+      "volume_raw": "38383605"
+    },
+    {
+      "class": "unknown",
+      "count": 13,
+      "path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/Raydium CLMM",
+      "raw_path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.37210024,
+      "volume_raw": "37210024"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X/Jupiter v6/Byreal CLMM",
+      "raw_path": "j1o2qRpjcyUwEvwtcfhEQefh773ZgjxcVRry7LDqg5X/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.36241907,
+      "volume_raw": "36241907"
+    },
+    {
+      "class": "hft_bot",
+      "count": 5,
+      "path": "HFT bot (boyftq7)/Orca Whirlpool",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.34692668,
+      "volume_raw": "34692668"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (L6pUpk)/Orca Whirlpool",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.34173384,
+      "volume_raw": "34173384"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/Byreal CLMM",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.31745004,
+      "volume_raw": "31745004"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/Orca Whirlpool",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.31745004,
+      "volume_raw": "31745004"
+    },
+    {
+      "class": "hft_bot",
+      "count": 19,
+      "path": "MEV bot (joeHSut)/Orca Whirlpool",
+      "raw_path": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.3139365,
+      "volume_raw": "31393650"
+    },
+    {
+      "class": "hft_bot",
+      "count": 34,
+      "path": "HFT bot (CFU3XT)/Raydium CLMM",
+      "raw_path": "CFU3XT4yiuERvM4298sGWuWFxMRmJkeyganCQ3WtuMK3/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.29888649,
+      "volume_raw": "29888649"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "Arb bot (MtvwNH8)/Byreal CLMM",
+      "raw_path": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.29837728,
+      "volume_raw": "29837728"
+    },
+    {
+      "class": "router",
+      "count": 102,
+      "path": "Titan Router/Meteora DLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.28942929,
+      "volume_raw": "28942929"
+    },
+    {
+      "class": "hft_bot",
+      "count": 30,
+      "path": "HFT bot (CFU3XT)/Orca Whirlpool",
+      "raw_path": "CFU3XT4yiuERvM4298sGWuWFxMRmJkeyganCQ3WtuMK3/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.27186969,
+      "volume_raw": "27186969"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/Raydium CLMM",
+      "raw_path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.27075654,
+      "volume_raw": "27075654"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (MyS6zf)/Meteora DLMM",
+      "raw_path": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.27005861,
+      "volume_raw": "27005861"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (King7k)/Meteora DLMM",
+      "raw_path": "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.23129086,
+      "volume_raw": "23129086"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "MEV bot (joeHSut)/Raydium CLMM",
+      "raw_path": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.22286702,
+      "volume_raw": "22286702"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "jesterKqzZ7hWfNLnUDeB8WtMrm7a44g2vSyhs7WmyT/Orca Whirlpool",
+      "raw_path": "jesterKqzZ7hWfNLnUDeB8WtMrm7a44g2vSyhs7WmyT/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.20011964,
+      "volume_raw": "20011964"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Binance Wallet Router/Liquid Mesh Router/Raydium CLMM",
+      "raw_path": "B3111yJCeHBcA1bizdJjUFPALfhAfSRnAbJzGUtnt56A/HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.1984547,
+      "volume_raw": "19845470"
+    },
+    {
+      "class": "hft_bot",
+      "count": 5,
+      "path": "MEV router (CNCBEUH)/Raydium CLMM",
+      "raw_path": "CNCBEUHgsEwXRkc5ov5f42gnHnmtrmv3BoG7TdtyKMen/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.17938474,
+      "volume_raw": "17938474"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "ByReal Router/Jupiter v6/Orca Whirlpool",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.1692432,
+      "volume_raw": "16924320"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (boyftq7)/Meteora DLMM",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.16878618,
+      "volume_raw": "16878618"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (L6pUpk)/Meteora DLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.16804038,
+      "volume_raw": "16804038"
+    },
+    {
+      "class": "hft_bot",
+      "count": 8,
+      "path": "HFT bot (5mngCU)/Orca Whirlpool",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.16587421,
+      "volume_raw": "16587421"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (NinafK)/Jupiter v6/Meteora DLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.16439245,
+      "volume_raw": "16439245"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "BN111AnCthcdPVNJ6jkir9TDaS7xqXT8EhetAmYpNqFt",
+      "raw_path": "BN111AnCthcdPVNJ6jkir9TDaS7xqXT8EhetAmYpNqFt",
+      "volume": 0.13828959,
+      "volume_raw": "13828959"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "BN111AnCthcdPVNJ6jkir9TDaS7xqXT8EhetAmYpNqFt/Liquid Mesh Router/Raydium CLMM",
+      "raw_path": "BN111AnCthcdPVNJ6jkir9TDaS7xqXT8EhetAmYpNqFt/HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.13828959,
+      "volume_raw": "13828959"
+    },
+    {
+      "class": "hft_bot",
+      "count": 7,
+      "path": "MEV router (CNCBEUH)/Orca Whirlpool",
+      "raw_path": "CNCBEUHgsEwXRkc5ov5f42gnHnmtrmv3BoG7TdtyKMen/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.13434447,
+      "volume_raw": "13434447"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (theovTrk)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.1329529,
+      "volume_raw": "13295290"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/Meteora DLMM",
+      "raw_path": "H5q1jexA6N9YAoTbAvP5rkavv13haCJUqqvVFBxaRcZh/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.13242284,
+      "volume_raw": "13242284"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "Arb bot (MtvwNH8)/Orca Whirlpool",
+      "raw_path": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.11831757,
+      "volume_raw": "11831757"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "reDGrDqhiJx4mBnHmZkBNsSSGaq4LM9ineis9jr8KVu/Byreal CLMM",
+      "raw_path": "reDGrDqhiJx4mBnHmZkBNsSSGaq4LM9ineis9jr8KVu/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.11532642,
+      "volume_raw": "11532642"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "reDGrDqhiJx4mBnHmZkBNsSSGaq4LM9ineis9jr8KVu/Orca Whirlpool",
+      "raw_path": "reDGrDqhiJx4mBnHmZkBNsSSGaq4LM9ineis9jr8KVu/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.11532642,
+      "volume_raw": "11532642"
+    },
+    {
+      "class": "hft_bot",
+      "count": 5,
+      "path": "HFT bot (NinafK)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.11525583,
+      "volume_raw": "11525583"
+    },
+    {
+      "class": "unknown",
+      "count": 4,
+      "path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/Meteora DLMM",
+      "raw_path": "B6k1xRwxA9GitJxEPz7NjHFv4Q9tTPChncj7cFhxLgsE/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.11263493,
+      "volume_raw": "11263493"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (giftBX9q)/Byreal CLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.10273528,
+      "volume_raw": "10273528"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "Arb bot (MtvwNH8)/Meteora DLMM",
+      "raw_path": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.07852486,
+      "volume_raw": "7852486"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "MEV router (CNCBEUH)/Meteora DLMM",
+      "raw_path": "CNCBEUHgsEwXRkc5ov5f42gnHnmtrmv3BoG7TdtyKMen/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.07538825,
+      "volume_raw": "7538825"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (giftBX9q)/Meteora DLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.05235242,
+      "volume_raw": "5235242"
+    },
+    {
+      "class": "hft_bot",
+      "count": 8,
+      "path": "HFT bot (DDsnwb)/Meteora DLMM",
+      "raw_path": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.0270065,
+      "volume_raw": "2700650"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "Raydium CLMM Position Manager",
+      "raw_path": "9hFYKmiJd1CZAcsTLR7xTbswj9Wy7aryqhT7RpbZYReP",
+      "volume": 0.02296579,
+      "volume_raw": "2296579"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (9Zzf9Q)/Meteora DLMM",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.02087381,
+      "volume_raw": "2087381"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "Swig Wallet/Jupiter v6",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.02081208,
+      "volume_raw": "2081208"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "MEV bot (joeHSut)/Meteora DLMM",
+      "raw_path": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.02026988,
+      "volume_raw": "2026988"
+    },
+    {
+      "class": "hft_bot",
+      "count": 5,
+      "path": "HFT bot (BASDaP)/Orca Whirlpool",
+      "raw_path": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.01609644,
+      "volume_raw": "1609644"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (BASDaP)/Raydium CLMM",
+      "raw_path": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.01066582,
+      "volume_raw": "1066582"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Swig Wallet/Jupiter v6/Raydium CLMM",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.01052771,
+      "volume_raw": "1052771"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Swig Wallet/Jupiter v6/Byreal CLMM",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.00988037,
+      "volume_raw": "988037"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (BASDaP)/Byreal CLMM",
+      "raw_path": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.00409526,
+      "volume_raw": "409526"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (GnZr2LD)/Raydium CLMM",
+      "raw_path": "GnZr2LD3N1F7mr5mNdgN7doBMxFNAF9dKtpoNHGCkrx2/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00262891,
+      "volume_raw": "262891"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (GnZr2LD)/Orca Whirlpool",
+      "raw_path": "GnZr2LD3N1F7mr5mNdgN7doBMxFNAF9dKtpoNHGCkrx2/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00262891,
+      "volume_raw": "262891"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Binance Wallet Router/Jupiter v6/Orca Whirlpool",
+      "raw_path": "B3111yJCeHBcA1bizdJjUFPALfhAfSRnAbJzGUtnt56A/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00161402,
+      "volume_raw": "161402"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (JET9RND)/Orca Whirlpool",
+      "raw_path": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00141367,
+      "volume_raw": "141367"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (BASDaP)/Meteora DLMM",
+      "raw_path": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.00123638,
+      "volume_raw": "123638"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (ESNuNF)/Raydium CLMM",
+      "raw_path": "ESNuNFWxQ1MHPT57WGzLzYbdQV1JLnuekY86HuVBNCgx/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00079343,
+      "volume_raw": "79343"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (ESNuNF)/Orca Whirlpool",
+      "raw_path": "ESNuNFWxQ1MHPT57WGzLzYbdQV1JLnuekY86HuVBNCgx/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00079343,
+      "volume_raw": "79343"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "SodaeVSmrXtYeYVdk3GEegdADNiqhLLz1DtF452Eva6/Jupiter v6/Meteora DLMM",
+      "raw_path": "SodaeVSmrXtYeYVdk3GEegdADNiqhLLz1DtF452Eva6/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.00077529,
+      "volume_raw": "77529"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "SodaeVSmrXtYeYVdk3GEegdADNiqhLLz1DtF452Eva6/Jupiter v6/Byreal CLMM",
+      "raw_path": "SodaeVSmrXtYeYVdk3GEegdADNiqhLLz1DtF452Eva6/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.00077529,
+      "volume_raw": "77529"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Swig Wallet/Jupiter v6/Meteora DLMM",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.000404,
+      "volume_raw": "40400"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Titan Router/HpNfyc2Saw7RKkQd8nEL4khUcuPhQ7WwY1B2qjx8jxFq",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/HpNfyc2Saw7RKkQd8nEL4khUcuPhQ7WwY1B2qjx8jxFq",
+      "volume": 0.0000537,
+      "volume_raw": "5370"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 2961,
+      "volume": 6850.98035755,
+      "volume_raw": "685098035755"
+    },
+    {
+      "class": "router",
+      "count": 5738,
+      "volume": 4355.79260236,
+      "volume_raw": "435579260236"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2768,
+      "volume": 2415.2353598,
+      "volume_raw": "241523535980"
+    },
+    {
+      "class": "unknown",
+      "count": 340,
+      "volume": 302.00590423,
+      "volume_raw": "30200590423"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 3231,
+      "level": 2,
+      "volume": 9038.27573587,
+      "volume_raw": "903827573587"
+    },
+    {
+      "count": 8483,
+      "level": 3,
+      "volume": 4835.52122893,
+      "volume_raw": "483552122893"
+    },
+    {
+      "count": 93,
+      "level": 4,
+      "volume": 50.21725914,
+      "volume_raw": "5021725914"
+    }
+  ],
+  "max_block_time": 1780531200,
+  "max_slot": 424130872,
+  "max_time_utc": "2026-06-04T00:00:00Z",
+  "min_block_time": 1780444816,
+  "min_slot": 423913892,
+  "min_time_utc": "2026-06-03T00:00:16Z",
+  "mint": "XsP7xzNPvEHS1m6qfanPUGjNmdnmsLKEoNAnHjdxxyZ",
+  "name": "MicroStrategy xStock",
+  "router_histogram": [
+    {
+      "count": 76,
+      "router": "Jupiter Order Engine",
+      "volume": 1432.54193184,
+      "volume_raw": "143254193184"
+    },
+    {
+      "count": 1360,
+      "router": "Titan Router",
+      "volume": 1072.63560018,
+      "volume_raw": "107263560018"
+    },
+    {
+      "count": 3604,
+      "router": "Jupiter v6",
+      "volume": 965.96292119,
+      "volume_raw": "96596292119"
+    },
+    {
+      "count": 200,
+      "router": "OKX DEX Router",
+      "volume": 353.57246446,
+      "volume_raw": "35357246446"
+    },
+    {
+      "count": 144,
+      "router": "DFlow Aggregator v4",
+      "volume": 129.44293783,
+      "volume_raw": "12944293783"
+    },
+    {
+      "count": 43,
+      "router": "ByReal Router",
+      "volume": 119.69802621,
+      "volume_raw": "11969802621"
+    },
+    {
+      "count": 144,
+      "router": "Raydium Route",
+      "volume": 103.9683923,
+      "volume_raw": "10396839230"
+    },
+    {
+      "count": 16,
+      "router": "Raydium CLMM Position Manager",
+      "volume": 78.51599047,
+      "volume_raw": "7851599047"
+    },
+    {
+      "count": 133,
+      "router": "BGW Aggregator",
+      "volume": 73.07455499,
+      "volume_raw": "7307455499"
+    },
+    {
+      "count": 4,
+      "router": "OKX Vault",
+      "volume": 22.80628148,
+      "volume_raw": "2280628148"
+    },
+    {
+      "count": 2,
+      "router": "Mayan Swift",
+      "volume": 3.33180853,
+      "volume_raw": "333180853"
+    },
+    {
+      "count": 4,
+      "router": "Binance Wallet Router",
+      "volume": 0.20006872,
+      "volume_raw": "20006872"
+    },
+    {
+      "count": 8,
+      "router": "Swig Wallet",
+      "volume": 0.04162416,
+      "volume_raw": "4162416"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "MSTRx",
+  "transfers": 11807,
+  "txs": 12340,
+  "txs_with_transfer": 8266,
+  "txs_without_transfer": 4074,
+  "volume": 13924.01422394,
+  "volume_raw": "1392401422394",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 2.04805003,
+      "volume_raw": "204805003"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 2.04805003,
+      "volume_raw": "204805003"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 2,
+      "volume": 2.04805003,
+      "volume_raw": "204805003"
+    }
+  ],
+  "max_block_time": 1780494614,
+  "max_slot": 424039026,
+  "max_time_utc": "2026-06-03T13:50:14Z",
+  "min_block_time": 1780489414,
+  "min_slot": 424025953,
+  "min_time_utc": "2026-06-03T12:23:34Z",
+  "mint": "Xs7UsqobM3EJgMeHwdAbmDBCZH1G5WTCjatpeYcCr8x",
+  "name": "Fundrise Innovation Fund, LLC xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 2.04805003,
+      "volume_raw": "204805003"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "VCXx",
+  "transfers": 1,
+  "txs": 8,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 7,
+  "volume": 2.04805003,
+  "volume_raw": "204805003",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

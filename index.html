@@ -1,27 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>quay-public-research</title>
-  <style>
-    :root { color-scheme: light dark; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      max-width: 42rem;
-      margin: 4rem auto;
-      padding: 0 1.5rem;
-      line-height: 1.6;
-    }
-    h1 { margin-bottom: 0.25rem; }
-    code { background: rgba(127,127,127,0.15); padding: 0.1rem 0.35rem; border-radius: 4px; }
-    .pill { display: inline-block; font-size: 0.8rem; padding: 0.15rem 0.6rem; border: 1px solid currentColor; border-radius: 999px; opacity: 0.7; }
-  </style>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quay · public research</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    max-width: 46rem; margin: 4rem auto; padding: 0 1.5rem; line-height: 1.6; }
+  h1 { margin-bottom: .25rem; } .pill { display: inline-block; font-size: .8rem;
+    padding: .15rem .6rem; border: 1px solid currentColor; border-radius: 999px; opacity: .7; }
+  .row { margin: 1rem 0; }
+  a.card { display: block; text-decoration: none; color: inherit; border: 1px solid rgba(127,127,127,.3);
+    border-radius: 12px; padding: 1rem 1.25rem; }
+  a.card:hover { border-color: #ED7A2B; }
+  .data { margin: .4rem 0 0 .25rem; font-size: .82rem; }
+  .muted { opacity: .65; font-size: .9rem; } a { color: inherit; }
+</style>
 </head>
 <body>
   <span class="pill">Quay-Markets · public research</span>
-  <h1>It works! 🎉</h1>
-  <p>This is a test static page served from the <code>quay-public-research</code> repository.</p>
-  <p>If you're reading this on <code>github.io</code>, GitHub Pages is serving correctly.</p>
+  <h1>Quay · public research</h1>
+  <p class="muted">On-chain market-structure dashboards. Data is static JSON (CORS-enabled) —
+  see each dashboard's <code>manifest.json</code>.</p>
+
+  <h3>Dashboards</h3>
+  <div class="row">
+    <a class="card" href="dashboards/dashboard_0001_xstocks_analysis.html"><strong>📊 xStocks · on-chain flow →</strong><div class="muted">163 xStocks · 137,829 routed trades · window starting 2026-06-03 UTC</div></a>
+    <div class="data muted">data: <a href="dashboard_0001_xstocks_analysis/manifest.json">manifest</a> · <a href="dashboard_0001_xstocks_analysis/labels.json">labels</a> · <a href="dashboard_0001_xstocks_analysis/xstocks_prices.json">prices</a></div>
+  </div>
+
+  <p class="muted" style="margin-top:2rem">Methodology: per-stock SPL-transfer call stacks classified by the
+  initiating program (direct DEX / router / HFT bot); lending/flash-loan legs excluded.</p>
 </body>
 </html>

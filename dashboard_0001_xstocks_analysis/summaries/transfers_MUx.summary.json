@@ -1,0 +1,80 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 7.39932946,
+      "volume_raw": "739932946"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Jupiter v6/FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X",
+      "volume": 0.00029734,
+      "volume_raw": "29734"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 5,
+      "volume": 7.3996268,
+      "volume_raw": "739962680"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 2,
+      "level": 2,
+      "volume": 7.39932946,
+      "volume_raw": "739932946"
+    },
+    {
+      "count": 3,
+      "level": 3,
+      "volume": 0.00029734,
+      "volume_raw": "29734"
+    }
+  ],
+  "max_block_time": 1780522262,
+  "max_slot": 424108439,
+  "max_time_utc": "2026-06-03T21:31:02Z",
+  "min_block_time": 1780489411,
+  "min_slot": 424025946,
+  "min_time_utc": "2026-06-03T12:23:31Z",
+  "mint": "XsQLZycSZ7QnBBdBXQaTbQdiUcbRqjNJgyBGAMzhHav",
+  "name": "Micron Technology xStock",
+  "router_histogram": [
+    {
+      "count": 2,
+      "router": "Jupiter Order Engine",
+      "volume": 7.39932946,
+      "volume_raw": "739932946"
+    },
+    {
+      "count": 3,
+      "router": "Jupiter v6",
+      "volume": 0.00029734,
+      "volume_raw": "29734"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "MUx",
+  "transfers": 5,
+  "txs": 22,
+  "txs_with_transfer": 5,
+  "txs_without_transfer": 17,
+  "volume": 7.3996268,
+  "volume_raw": "739962680",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}
