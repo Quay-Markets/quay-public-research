@@ -1,0 +1,266 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 11,
+      "path": "Jupiter v6/Orca Whirlpool",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 22.37153665,
+      "volume_raw": "2237153665"
+    },
+    {
+      "class": "direct_dex",
+      "count": 7,
+      "path": "Orca Whirlpool",
+      "raw_path": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 13.33162386,
+      "volume_raw": "1333162386"
+    },
+    {
+      "class": "router",
+      "count": 25,
+      "path": "OKX DEX Router/Orca Whirlpool",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 1.88232805,
+      "volume_raw": "188232805"
+    },
+    {
+      "class": "router",
+      "count": 90,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 0.67372971,
+      "volume_raw": "67372971"
+    },
+    {
+      "class": "router",
+      "count": 59,
+      "path": "Titan Router/Orca Whirlpool",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.63664492,
+      "volume_raw": "63664492"
+    },
+    {
+      "class": "hft_bot",
+      "count": 9,
+      "path": "HFT bot (9Zzf9Q)/Meteora DLMM",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.32289597,
+      "volume_raw": "32289597"
+    },
+    {
+      "class": "hft_bot",
+      "count": 9,
+      "path": "HFT bot (9Zzf9Q)/Orca Whirlpool",
+      "raw_path": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.32289597,
+      "volume_raw": "32289597"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Axiom/Orca Whirlpool",
+      "raw_path": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.26177261,
+      "volume_raw": "26177261"
+    },
+    {
+      "class": "router",
+      "count": 13,
+      "path": "DFlow Aggregator v4/Orca Whirlpool",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.1509003,
+      "volume_raw": "15090030"
+    },
+    {
+      "class": "router",
+      "count": 22,
+      "path": "Titan Router/Meteora DLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.05875899,
+      "volume_raw": "5875899"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.05451748,
+      "volume_raw": "5451748"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (giftBX9q)/Meteora DLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.02844735,
+      "volume_raw": "2844735"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Meteora DLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.01886525,
+      "volume_raw": "1886525"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.01886525,
+      "volume_raw": "1886525"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (giftBX9q)/Orca Whirlpool",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.01416229,
+      "volume_raw": "1416229"
+    },
+    {
+      "class": "router",
+      "count": 8,
+      "path": "DFlow Aggregator v4/Meteora DLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.00516347,
+      "volume_raw": "516347"
+    },
+    {
+      "class": "router",
+      "count": 8,
+      "path": "OKX DEX Router/Meteora DLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.00286761,
+      "volume_raw": "286761"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Binance Wallet Router/Liquid Mesh Router/Orca Whirlpool",
+      "raw_path": "B3111yJCeHBcA1bizdJjUFPALfhAfSRnAbJzGUtnt56A/HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00147688,
+      "volume_raw": "147688"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "DFlow Aggregator v4",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "volume": 0.00001682,
+      "volume_raw": "1682"
+    },
+    {
+      "class": "direct_dex",
+      "count": 2,
+      "path": "Meteora DLMM",
+      "raw_path": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.0,
+      "volume_raw": "0"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 249,
+      "volume": 26.09971349,
+      "volume_raw": "2609971349"
+    },
+    {
+      "class": "direct_dex",
+      "count": 9,
+      "volume": 13.33162386,
+      "volume_raw": "1333162386"
+    },
+    {
+      "class": "hft_bot",
+      "count": 30,
+      "volume": 0.72613208,
+      "volume_raw": "72613208"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 109,
+      "level": 2,
+      "volume": 14.05988787,
+      "volume_raw": "1405988787"
+    },
+    {
+      "count": 172,
+      "level": 3,
+      "volume": 26.05837418,
+      "volume_raw": "2605837418"
+    },
+    {
+      "count": 7,
+      "level": 4,
+      "volume": 0.03920738,
+      "volume_raw": "3920738"
+    }
+  ],
+  "max_block_time": 1780530514,
+  "max_slot": 424129151,
+  "max_time_utc": "2026-06-03T23:48:34Z",
+  "min_block_time": 1780445717,
+  "min_slot": 423916136,
+  "min_time_utc": "2026-06-03T00:15:17Z",
+  "mint": "Xsf9mBktVB9BSU5kf4nHxPq5hCBJ2j2ui3ecFGxPRGc",
+  "name": "Gamestop xStock",
+  "router_histogram": [
+    {
+      "count": 16,
+      "router": "Jupiter v6",
+      "volume": 22.42605413,
+      "volume_raw": "2242605413"
+    },
+    {
+      "count": 33,
+      "router": "OKX DEX Router",
+      "volume": 1.88519566,
+      "volume_raw": "188519566"
+    },
+    {
+      "count": 171,
+      "router": "Titan Router",
+      "volume": 1.36913362,
+      "volume_raw": "136913362"
+    },
+    {
+      "count": 2,
+      "router": "Axiom",
+      "volume": 0.26177261,
+      "volume_raw": "26177261"
+    },
+    {
+      "count": 26,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.15608059,
+      "volume_raw": "15608059"
+    },
+    {
+      "count": 1,
+      "router": "Binance Wallet Router",
+      "volume": 0.00147688,
+      "volume_raw": "147688"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "GMEx",
+  "transfers": 288,
+  "txs": 182,
+  "txs_with_transfer": 158,
+  "txs_without_transfer": 24,
+  "volume": 40.15746943,
+  "volume_raw": "4015746943",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

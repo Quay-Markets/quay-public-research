@@ -1,0 +1,348 @@
+{
+  "categories": [
+    "dex",
+    "position_manager",
+    "aggregator",
+    "bot",
+    "infra",
+    "unknown"
+  ],
+  "router_only": [
+    "OKX DEX Router",
+    "BGW Aggregator"
+  ],
+  "exclude": [
+    "jupr81YtYssSyPt8jbnGuiWon5f6x9TcDEFxYe3Bdzi",
+    "KLend2g3cP87fffoy8q1mQqGKjrxjC8boSyAYavgmjD",
+    "Pig2ienhM3ukiTec3x8aCdnLASpU4z8yRPLgH9QxDvm",
+    "jupgfSgfuAXv4B6R2Uxu85Z1qdzgju79s6MfZekN6XS",
+    "jupeiUmn818Jg1ekPURTpr4mFo29p46vygyykFJ3wZC"
+  ],
+  "programs": [
+    {
+      "id": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "name": "SPL Token",
+      "category": "infra"
+    },
+    {
+      "id": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "name": "Token-2022",
+      "category": "infra"
+    },
+    {
+      "id": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "name": "Raydium CLMM",
+      "category": "dex"
+    },
+    {
+      "id": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+      "name": "Raydium AMM v4",
+      "category": "dex"
+    },
+    {
+      "id": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+      "name": "Raydium CPMM",
+      "category": "dex"
+    },
+    {
+      "id": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "name": "Orca Whirlpool",
+      "category": "dex"
+    },
+    {
+      "id": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "name": "Meteora DLMM",
+      "category": "dex"
+    },
+    {
+      "id": "PhoeNiXZ8ByJGLkxNfZRnkUfjvmuYqLR89jjFHGqdXY",
+      "name": "Phoenix",
+      "category": "dex"
+    },
+    {
+      "id": "REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "name": "Byreal CLMM",
+      "category": "dex"
+    },
+    {
+      "id": "9hFYKmiJd1CZAcsTLR7xTbswj9Wy7aryqhT7RpbZYReP",
+      "name": "Raydium CLMM Position Manager",
+      "category": "position_manager"
+    },
+    {
+      "id": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "name": "Jupiter v6",
+      "category": "aggregator"
+    },
+    {
+      "id": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "name": "Jupiter Order Engine",
+      "category": "aggregator"
+    },
+    {
+      "id": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u",
+      "name": "OKX DEX Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH",
+      "name": "OKX Vault",
+      "category": "aggregator"
+    },
+    {
+      "id": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "name": "Titan Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "mayan34VedncxdK2XobtvWFDXQASUTBXhUVzt2kKgny",
+      "name": "Mayan Swift",
+      "category": "aggregator"
+    },
+    {
+      "id": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "name": "DFlow Aggregator v4",
+      "category": "aggregator"
+    },
+    {
+      "id": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS",
+      "name": "Raydium Route",
+      "category": "aggregator"
+    },
+    {
+      "id": "HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ",
+      "name": "Liquid Mesh Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC",
+      "name": "BGW Aggregator",
+      "category": "aggregator"
+    },
+    {
+      "id": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4",
+      "name": "ByReal Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "B3111yJCeHBcA1bizdJjUFPALfhAfSRnAbJzGUtnt56A",
+      "name": "Binance Wallet Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "2rwUXt3JeyPtUBjH5pscZLRDBoh9WADfXq7gyoDnLcC4",
+      "name": "Gate.io Router",
+      "category": "aggregator"
+    },
+    {
+      "id": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+      "name": "Axiom",
+      "category": "aggregator"
+    },
+    {
+      "id": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB",
+      "name": "Swig Wallet",
+      "category": "aggregator"
+    },
+    {
+      "id": "3URuDiCXFYJ95YVeDW8MP3b7CKTnuqArY5GTZA2JnPWQ",
+      "name": "HFT bot (3URu)",
+      "category": "bot"
+    },
+    {
+      "id": "CoTh2vLV87d3wBM7pgLYkkh4q7WBKcVGnVzL3ABuwVR4",
+      "name": "HFT bot (CoTh2v)",
+      "category": "bot"
+    },
+    {
+      "id": "AMLoeuWtytPa5DuLtcD35Fj5qtJSE7379ApE2BaTaSrp",
+      "name": "HFT bot (AMLoeu)",
+      "category": "bot"
+    },
+    {
+      "id": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq",
+      "name": "HFT bot (sattCHv)",
+      "category": "bot"
+    },
+    {
+      "id": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ",
+      "name": "HFT bot (7obtMdi)",
+      "category": "bot"
+    },
+    {
+      "id": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i",
+      "name": "HFT bot (theovTrk)",
+      "category": "bot"
+    },
+    {
+      "id": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v",
+      "name": "HFT bot (boyftq7)",
+      "category": "bot"
+    },
+    {
+      "id": "GnZr2LD3N1F7mr5mNdgN7doBMxFNAF9dKtpoNHGCkrx2",
+      "name": "HFT bot (GnZr2LD)",
+      "category": "bot"
+    },
+    {
+      "id": "3AQz4t3ShixZWw5vhvkAindHhMco3s12gxgvGuMeh2Yg",
+      "name": "HFT bot (3AQz4t3)",
+      "category": "bot"
+    },
+    {
+      "id": "CroWg74XNDF8UMnAZVbXx49iVj7iJ7b4CsqTCVWF7aK",
+      "name": "HFT bot (CroWg74)",
+      "category": "bot"
+    },
+    {
+      "id": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ",
+      "name": "MEV bot (joeHSut)",
+      "category": "bot"
+    },
+    {
+      "id": "CNCBEUHgsEwXRkc5ov5f42gnHnmtrmv3BoG7TdtyKMen",
+      "name": "MEV router (CNCBEUH)",
+      "category": "bot"
+    },
+    {
+      "id": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2",
+      "name": "Arb bot (MtvwNH8)",
+      "category": "bot"
+    },
+    {
+      "id": "NA247a7YE9S3p9CdKmMyETx8TTwbSdVbVYHHxpnHTUV",
+      "name": "Router bot (NA247)",
+      "category": "bot"
+    },
+    {
+      "id": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK",
+      "name": "HFT bot (giftBX9q)",
+      "category": "bot"
+    },
+    {
+      "id": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv",
+      "name": "HFT bot (E4D7pxG)",
+      "category": "bot"
+    },
+    {
+      "id": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a",
+      "name": "HFT bot (JET9RND)",
+      "category": "bot"
+    },
+    {
+      "id": "LiApkFTR9qVaGQgb4hykwbw7ir3ZPPMmE1zNPiakVGh",
+      "name": "Swap router (LiApkFT)",
+      "category": "bot"
+    },
+    {
+      "id": "9i7QdbBHx7fjLAAaFfcDRgkdS4oNfKv8duzyE27a1kJ6",
+      "name": "HFT bot (9i7Qdb)",
+      "category": "bot"
+    },
+    {
+      "id": "8KDGPdXXr6QQbXFyXh4kchwmQGLJoroUJccymFhubqcW",
+      "name": "HFT bot (8KDGPd)",
+      "category": "bot"
+    },
+    {
+      "id": "AWyHupJb5LBjgcAjDaLmLMRbj72dX4kTtnvNpbrMqpFF",
+      "name": "HFT bot (AWyHup)",
+      "category": "bot"
+    },
+    {
+      "id": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw",
+      "name": "HFT bot (rexhfZ)",
+      "category": "bot"
+    },
+    {
+      "id": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB",
+      "name": "HFT bot (MyS6zf)",
+      "category": "bot"
+    },
+    {
+      "id": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo",
+      "name": "HFT bot (DDsnwb)",
+      "category": "bot"
+    },
+    {
+      "id": "Cmv6fTsiNdLkVR2zSge7B9oFGf7LS6F4zteA73331XW8",
+      "name": "Arb bot (Cmv6fT)",
+      "category": "bot"
+    },
+    {
+      "id": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs",
+      "name": "HFT bot (NinafK)",
+      "category": "bot"
+    },
+    {
+      "id": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad",
+      "name": "HFT bot (L6pUpk)",
+      "category": "bot"
+    },
+    {
+      "id": "E52MR3wWQJG7mdBxLbw5tLcpF7DNzBWFKfacQ1HFSVrv",
+      "name": "HFT bot (E52MR3)",
+      "category": "bot"
+    },
+    {
+      "id": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb",
+      "name": "HFT bot (5mngCU)",
+      "category": "bot"
+    },
+    {
+      "id": "CFU3XT4yiuERvM4298sGWuWFxMRmJkeyganCQ3WtuMK3",
+      "name": "HFT bot (CFU3XT)",
+      "category": "bot"
+    },
+    {
+      "id": "ESNuNFWxQ1MHPT57WGzLzYbdQV1JLnuekY86HuVBNCgx",
+      "name": "HFT bot (ESNuNF)",
+      "category": "bot"
+    },
+    {
+      "id": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn",
+      "name": "HFT bot (BASDaP)",
+      "category": "bot"
+    },
+    {
+      "id": "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T",
+      "name": "HFT bot (King7k)",
+      "category": "bot"
+    },
+    {
+      "id": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv",
+      "name": "HFT bot (9Zzf9Q)",
+      "category": "bot"
+    },
+    {
+      "id": "AnCCJjheynmGqPp6Vgat9DTirGKD4CtQzP8cwTYV8qKH",
+      "name": "HFT bot (AnCCJj)",
+      "category": "bot"
+    },
+    {
+      "id": "11111111111111111111111111111111",
+      "name": "System Program",
+      "category": "infra"
+    },
+    {
+      "id": "ComputeBudget111111111111111111111111111111",
+      "name": "Compute Budget",
+      "category": "infra"
+    },
+    {
+      "id": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+      "name": "Associated Token Account",
+      "category": "infra"
+    },
+    {
+      "id": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+      "name": "Memo",
+      "category": "infra"
+    },
+    {
+      "id": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+      "name": "SPL Governance",
+      "category": "infra"
+    }
+  ]
+}

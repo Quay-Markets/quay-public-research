@@ -1,0 +1,76 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 4,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 20.89911915,
+      "volume_raw": "2089911915"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX DEX Router/Orca Whirlpool",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.89096949,
+      "volume_raw": "89096949"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/Meteora DLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.44464517,
+      "volume_raw": "44464517"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 7,
+      "volume": 22.23473381,
+      "volume_raw": "2223473381"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 7,
+      "level": 3,
+      "volume": 22.23473381,
+      "volume_raw": "2223473381"
+    }
+  ],
+  "max_block_time": 1780489115,
+  "max_slot": 424025206,
+  "max_time_utc": "2026-06-03T12:18:35Z",
+  "min_block_time": 1780483924,
+  "min_slot": 424012190,
+  "min_time_utc": "2026-06-03T10:52:04Z",
+  "mint": "XsaQTCgebC2KPbf27KUhdv5JFvHhQ4GDAPURwrEhAzb",
+  "name": "Amber xStock",
+  "router_histogram": [
+    {
+      "count": 7,
+      "router": "OKX DEX Router",
+      "volume": 22.23473381,
+      "volume_raw": "2223473381"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "AMBRx",
+  "transfers": 7,
+  "txs": 3,
+  "txs_with_transfer": 2,
+  "txs_without_transfer": 1,
+  "volume": 22.23473381,
+  "volume_raw": "2223473381",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

@@ -1,0 +1,74 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 17.36012423,
+      "volume_raw": "1736012423"
+    },
+    {
+      "class": "direct_dex",
+      "count": 2,
+      "path": "Meteora DLMM",
+      "raw_path": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 13.45253017,
+      "volume_raw": "1345253017"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "volume": 17.36012423,
+      "volume_raw": "1736012423"
+    },
+    {
+      "class": "direct_dex",
+      "count": 2,
+      "volume": 13.45253017,
+      "volume_raw": "1345253017"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 4,
+      "level": 2,
+      "volume": 30.8126544,
+      "volume_raw": "3081265440"
+    }
+  ],
+  "max_block_time": 1780524467,
+  "max_slot": 424113977,
+  "max_time_utc": "2026-06-03T22:07:47Z",
+  "min_block_time": 1780489085,
+  "min_slot": 424025132,
+  "min_time_utc": "2026-06-03T12:18:05Z",
+  "mint": "XsvKCaNsxg2GN8jjUmq71qukMJr7Q1c5R2Mk9P8kcS8",
+  "name": "Comcast xStock",
+  "router_histogram": [
+    {
+      "count": 2,
+      "router": "Jupiter Order Engine",
+      "volume": 17.36012423,
+      "volume_raw": "1736012423"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "CMCSAx",
+  "transfers": 4,
+  "txs": 26,
+  "txs_with_transfer": 4,
+  "txs_without_transfer": 22,
+  "volume": 30.8126544,
+  "volume_raw": "3081265440",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

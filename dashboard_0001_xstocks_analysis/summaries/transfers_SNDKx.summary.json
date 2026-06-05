@@ -1,0 +1,94 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 12,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 5.58295121,
+      "volume_raw": "558295121"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.00645159,
+      "volume_raw": "645159"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.00061227,
+      "volume_raw": "61227"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 14,
+      "volume": 5.59001507,
+      "volume_raw": "559001507"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 12,
+      "level": 2,
+      "volume": 5.58295121,
+      "volume_raw": "558295121"
+    },
+    {
+      "count": 2,
+      "level": 3,
+      "volume": 0.00706386,
+      "volume_raw": "706386"
+    }
+  ],
+  "max_block_time": 1780519773,
+  "max_slot": 424102201,
+  "max_time_utc": "2026-06-03T20:49:33Z",
+  "min_block_time": 1780471783,
+  "min_slot": 423981657,
+  "min_time_utc": "2026-06-03T07:29:43Z",
+  "mint": "Xswbpc8UqU6e1j9QZEWCjBMjyvz4twqD7PCy6j2e7jj",
+  "name": "Sandisk Corporation xStock",
+  "router_histogram": [
+    {
+      "count": 12,
+      "router": "Jupiter Order Engine",
+      "volume": 5.58295121,
+      "volume_raw": "558295121"
+    },
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.00645159,
+      "volume_raw": "645159"
+    },
+    {
+      "count": 1,
+      "router": "OKX DEX Router",
+      "volume": 0.00061227,
+      "volume_raw": "61227"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "SNDKx",
+  "transfers": 14,
+  "txs": 57,
+  "txs_with_transfer": 14,
+  "txs_without_transfer": 43,
+  "volume": 5.59001507,
+  "volume_raw": "559001507",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

@@ -1,0 +1,166 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 0.31960559,
+      "volume_raw": "31960559"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 0.09237477,
+      "volume_raw": "9237477"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.09237477,
+      "volume_raw": "9237477"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.04948776,
+      "volume_raw": "4948776"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.02464248,
+      "volume_raw": "2464248"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00529248,
+      "volume_raw": "529248"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "BGW Aggregator/Raydium CLMM",
+      "raw_path": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00523247,
+      "volume_raw": "523247"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Axiom/Raydium CLMM",
+      "raw_path": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00010359,
+      "volume_raw": "10359"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.00001326,
+      "volume_raw": "1326"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 12,
+      "volume": 0.58383469,
+      "volume_raw": "58383469"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "volume": 0.00529248,
+      "volume_raw": "529248"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 5,
+      "level": 2,
+      "volume": 0.4172861,
+      "volume_raw": "41728610"
+    },
+    {
+      "count": 8,
+      "level": 3,
+      "volume": 0.17184107,
+      "volume_raw": "17184107"
+    }
+  ],
+  "max_block_time": 1780519073,
+  "max_slot": 424100437,
+  "max_time_utc": "2026-06-03T20:37:53Z",
+  "min_block_time": 1780463571,
+  "min_slot": 423960988,
+  "min_time_utc": "2026-06-03T05:12:51Z",
+  "mint": "Xsnuv4omNoHozR6EEW5mXkw8Nrny5rB3jVfLqi6gKMH",
+  "name": "Eli Lilly xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 0.31960559,
+      "volume_raw": "31960559"
+    },
+    {
+      "count": 2,
+      "router": "Titan Router",
+      "volume": 0.18474954,
+      "volume_raw": "18474954"
+    },
+    {
+      "count": 1,
+      "router": "OKX DEX Router",
+      "volume": 0.04948776,
+      "volume_raw": "4948776"
+    },
+    {
+      "count": 5,
+      "router": "Jupiter v6",
+      "volume": 0.02465574,
+      "volume_raw": "2465574"
+    },
+    {
+      "count": 2,
+      "router": "BGW Aggregator",
+      "volume": 0.00523247,
+      "volume_raw": "523247"
+    },
+    {
+      "count": 1,
+      "router": "Axiom",
+      "volume": 0.00010359,
+      "volume_raw": "10359"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "LLYx",
+  "transfers": 13,
+  "txs": 13,
+  "txs_with_transfer": 10,
+  "txs_without_transfer": 3,
+  "volume": 0.58912717,
+  "volume_raw": "58912717",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

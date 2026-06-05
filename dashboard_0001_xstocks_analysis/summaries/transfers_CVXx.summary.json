@@ -1,0 +1,116 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 3,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.54816242,
+      "volume_raw": "154816242"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Raydium Route/Raydium CLMM",
+      "raw_path": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.54305045,
+      "volume_raw": "54305045"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.30533394,
+      "volume_raw": "30533394"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.30533394,
+      "volume_raw": "30533394"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.06288947,
+      "volume_raw": "6288947"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 3,
+      "volume": 1.54816242,
+      "volume_raw": "154816242"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "volume": 1.2166078,
+      "volume_raw": "121660780"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 4,
+      "level": 2,
+      "volume": 1.85349636,
+      "volume_raw": "185349636"
+    },
+    {
+      "count": 4,
+      "level": 3,
+      "volume": 0.91127386,
+      "volume_raw": "91127386"
+    }
+  ],
+  "max_block_time": 1780520344,
+  "max_slot": 424103640,
+  "max_time_utc": "2026-06-03T20:59:04Z",
+  "min_block_time": 1780448685,
+  "min_slot": 423923599,
+  "min_time_utc": "2026-06-03T01:04:45Z",
+  "mint": "XsNNMt7WTNA2sV3jrb1NNfNgapxRF5i4i6GcnTRRHts",
+  "name": "Chevron xStock",
+  "router_histogram": [
+    {
+      "count": 2,
+      "router": "Jupiter v6",
+      "volume": 0.61066788,
+      "volume_raw": "61066788"
+    },
+    {
+      "count": 1,
+      "router": "Raydium Route",
+      "volume": 0.54305045,
+      "volume_raw": "54305045"
+    },
+    {
+      "count": 2,
+      "router": "OKX DEX Router",
+      "volume": 0.06288947,
+      "volume_raw": "6288947"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "CVXx",
+  "transfers": 8,
+  "txs": 19,
+  "txs_with_transfer": 7,
+  "txs_without_transfer": 12,
+  "volume": 2.76477022,
+  "volume_raw": "276477022",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

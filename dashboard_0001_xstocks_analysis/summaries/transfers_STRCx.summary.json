@@ -1,0 +1,752 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 461,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2874.83449696,
+      "volume_raw": "287483449696"
+    },
+    {
+      "class": "router",
+      "count": 63,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 832.88785689,
+      "volume_raw": "83288785689"
+    },
+    {
+      "class": "router",
+      "count": 229,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 604.86005052,
+      "volume_raw": "60486005052"
+    },
+    {
+      "class": "router",
+      "count": 127,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 555.84796084,
+      "volume_raw": "55584796084"
+    },
+    {
+      "class": "router",
+      "count": 41,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 351.524132,
+      "volume_raw": "35152413200"
+    },
+    {
+      "class": "router",
+      "count": 22,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 346.11930672,
+      "volume_raw": "34611930672"
+    },
+    {
+      "class": "router",
+      "count": 54,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 323.87544546,
+      "volume_raw": "32387544546"
+    },
+    {
+      "class": "router",
+      "count": 26,
+      "path": "Raydium Route/Raydium CLMM",
+      "raw_path": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 301.87569616,
+      "volume_raw": "30187569616"
+    },
+    {
+      "class": "hft_bot",
+      "count": 35,
+      "path": "HFT bot (rexhfZ)/Raydium CLMM",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 86.06193089,
+      "volume_raw": "8606193089"
+    },
+    {
+      "class": "hft_bot",
+      "count": 35,
+      "path": "HFT bot (E4D7pxG)/Raydium CLMM",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 66.32579454,
+      "volume_raw": "6632579454"
+    },
+    {
+      "class": "router",
+      "count": 102,
+      "path": "Jupiter v6/Byreal CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 63.68454028,
+      "volume_raw": "6368454028"
+    },
+    {
+      "class": "router",
+      "count": 65,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 62.79902129,
+      "volume_raw": "6279902129"
+    },
+    {
+      "class": "unknown",
+      "count": 27,
+      "path": "FoXszHbrFG59xXpkmT5mDrBuQiZNE2jFHr95yaMKa9mt/Raydium CLMM",
+      "raw_path": "FoXszHbrFG59xXpkmT5mDrBuQiZNE2jFHr95yaMKa9mt/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 62.08143716,
+      "volume_raw": "6208143716"
+    },
+    {
+      "class": "hft_bot",
+      "count": 42,
+      "path": "HFT bot (L6pUpk)/Raydium CLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 49.68794901,
+      "volume_raw": "4968794901"
+    },
+    {
+      "class": "router",
+      "count": 58,
+      "path": "OKX DEX Router/Byreal CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 47.99717421,
+      "volume_raw": "4799717421"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "HFT bot (9i7Qdb)/Raydium CLMM",
+      "raw_path": "9i7QdbBHx7fjLAAaFfcDRgkdS4oNfKv8duzyE27a1kJ6/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 36.13420871,
+      "volume_raw": "3613420871"
+    },
+    {
+      "class": "router",
+      "count": 6,
+      "path": "DFlow Aggregator v4/Byreal CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 34.60088723,
+      "volume_raw": "3460088723"
+    },
+    {
+      "class": "hft_bot",
+      "count": 16,
+      "path": "HFT bot (rexhfZ)/Byreal CLMM",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 31.33255633,
+      "volume_raw": "3133255633"
+    },
+    {
+      "class": "router",
+      "count": 24,
+      "path": "Titan Router/Byreal CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 26.87571522,
+      "volume_raw": "2687571522"
+    },
+    {
+      "class": "hft_bot",
+      "count": 39,
+      "path": "HFT bot (NinafK)/Jupiter v6/Raydium CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 17.75362706,
+      "volume_raw": "1775362706"
+    },
+    {
+      "class": "unknown",
+      "count": 7,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/Raydium CLMM",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 14.05143072,
+      "volume_raw": "1405143072"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "ByReal Router/Byreal CLMM",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 13.91106375,
+      "volume_raw": "1391106375"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "volume": 10.78929302,
+      "volume_raw": "1078929302"
+    },
+    {
+      "class": "hft_bot",
+      "count": 31,
+      "path": "HFT bot (NinafK)/Jupiter v6/Byreal CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 10.49544054,
+      "volume_raw": "1049544054"
+    },
+    {
+      "class": "hft_bot",
+      "count": 23,
+      "path": "HFT bot (L6pUpk)/Byreal CLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 8.82051593,
+      "volume_raw": "882051593"
+    },
+    {
+      "class": "hft_bot",
+      "count": 55,
+      "path": "HFT bot (sattCHv)/Raydium CLMM",
+      "raw_path": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 8.66339253,
+      "volume_raw": "866339253"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "HFT bot (E4D7pxG)/Byreal CLMM",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 8.46558725,
+      "volume_raw": "846558725"
+    },
+    {
+      "class": "hft_bot",
+      "count": 8,
+      "path": "HFT bot (theovTrk)/Raydium CLMM",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 8.45473216,
+      "volume_raw": "845473216"
+    },
+    {
+      "class": "hft_bot",
+      "count": 33,
+      "path": "HFT bot (sattCHv)/Byreal CLMM",
+      "raw_path": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 7.17958744,
+      "volume_raw": "717958744"
+    },
+    {
+      "class": "unknown",
+      "count": 5,
+      "path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/Raydium CLMM",
+      "raw_path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 7.11502077,
+      "volume_raw": "711502077"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (9i7Qdb)/Byreal CLMM",
+      "raw_path": "9i7QdbBHx7fjLAAaFfcDRgkdS4oNfKv8duzyE27a1kJ6/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 6.39361439,
+      "volume_raw": "639361439"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "ByReal Router/Jupiter v6/Raydium CLMM",
+      "raw_path": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 6.23077994,
+      "volume_raw": "623077994"
+    },
+    {
+      "class": "hft_bot",
+      "count": 14,
+      "path": "HFT bot (giftBX9q)/Raydium CLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 6.04602207,
+      "volume_raw": "604602207"
+    },
+    {
+      "class": "hft_bot",
+      "count": 10,
+      "path": "HFT bot (giftBX9q)/Byreal CLMM",
+      "raw_path": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 5.80408127,
+      "volume_raw": "580408127"
+    },
+    {
+      "class": "hft_bot",
+      "count": 19,
+      "path": "HFT bot (7obtMdi)/Raydium CLMM",
+      "raw_path": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 5.64283834,
+      "volume_raw": "564283834"
+    },
+    {
+      "class": "hft_bot",
+      "count": 19,
+      "path": "HFT bot (7obtMdi)/Byreal CLMM",
+      "raw_path": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 5.64283834,
+      "volume_raw": "564283834"
+    },
+    {
+      "class": "router",
+      "count": 21,
+      "path": "Jupiter v6/Meteora DLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 4.93972263,
+      "volume_raw": "493972263"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (8KDGPd)/Raydium CLMM",
+      "raw_path": "8KDGPdXXr6QQbXFyXh4kchwmQGLJoroUJccymFhubqcW/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 4.19808638,
+      "volume_raw": "419808638"
+    },
+    {
+      "class": "router",
+      "count": 11,
+      "path": "OKX DEX Router/Meteora DLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 2.53141423,
+      "volume_raw": "253141423"
+    },
+    {
+      "class": "hft_bot",
+      "count": 31,
+      "path": "HFT bot (DDsnwb)/Raydium CLMM",
+      "raw_path": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 2.281457,
+      "volume_raw": "228145700"
+    },
+    {
+      "class": "unknown",
+      "count": 5,
+      "path": "FoXszHbrFG59xXpkmT5mDrBuQiZNE2jFHr95yaMKa9mt/Byreal CLMM",
+      "raw_path": "FoXszHbrFG59xXpkmT5mDrBuQiZNE2jFHr95yaMKa9mt/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 2.17898984,
+      "volume_raw": "217898984"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (E52MR3)/Raydium CLMM",
+      "raw_path": "E52MR3wWQJG7mdBxLbw5tLcpF7DNzBWFKfacQ1HFSVrv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.86693844,
+      "volume_raw": "186693844"
+    },
+    {
+      "class": "direct_dex",
+      "count": 28,
+      "path": "Byreal CLMM",
+      "raw_path": "REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.7367015,
+      "volume_raw": "173670150"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/Byreal CLMM",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.43273521,
+      "volume_raw": "143273521"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Mayan Swift",
+      "raw_path": "mayan34VedncxdK2XobtvWFDXQASUTBXhUVzt2kKgny",
+      "volume": 1.40433016,
+      "volume_raw": "140433016"
+    },
+    {
+      "class": "hft_bot",
+      "count": 7,
+      "path": "HFT bot (5mngCU)/Raydium CLMM",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.40125812,
+      "volume_raw": "140125812"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (E4D7pxG)/Meteora DLMM",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 1.32760577,
+      "volume_raw": "132760577"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (L6pUpk)/Meteora DLMM",
+      "raw_path": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 1.31533882,
+      "volume_raw": "131533882"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (theovTrk)/Byreal CLMM",
+      "raw_path": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.1619668,
+      "volume_raw": "116196680"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/Byreal CLMM",
+      "raw_path": "8ttvvL8aJa79ncMoBBAZS3c1XeiAiQjQWZooL5QNcvGb/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 1.13730197,
+      "volume_raw": "113730197"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (rexhfZ)/Meteora DLMM",
+      "raw_path": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.9892053,
+      "volume_raw": "98920530"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "G2E4eoenFMirpFKRfHNo2koDP7mrhnNWVwxyHASSpjQD/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.94842895,
+      "volume_raw": "94842895"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Titan Router/Meteora DLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.77297132,
+      "volume_raw": "77297132"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (5mngCU)/Byreal CLMM",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.75860777,
+      "volume_raw": "75860777"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (boyftq7)/Raydium CLMM",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.74907254,
+      "volume_raw": "74907254"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (boyftq7)/Byreal CLMM",
+      "raw_path": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.74907254,
+      "volume_raw": "74907254"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (5mngCU)/Meteora DLMM",
+      "raw_path": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.64265035,
+      "volume_raw": "64265035"
+    },
+    {
+      "class": "router",
+      "count": 5,
+      "path": "Swig Wallet/Jupiter v6",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.56027371,
+      "volume_raw": "56027371"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "MEV bot (joeHSut)/Meteora DLMM",
+      "raw_path": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.50652062,
+      "volume_raw": "50652062"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "MEV bot (joeHSut)/Raydium CLMM",
+      "raw_path": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.5065203,
+      "volume_raw": "50652030"
+    },
+    {
+      "class": "unknown",
+      "count": 2,
+      "path": "offerbkFMvVfpQhL8ZQ5iromnjct5rz3r52B9ewu3ie",
+      "raw_path": "offerbkFMvVfpQhL8ZQ5iromnjct5rz3r52B9ewu3ie",
+      "volume": 0.40076398,
+      "volume_raw": "40076398"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Swig Wallet/Jupiter v6/Raydium CLMM",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.36922962,
+      "volume_raw": "36922962"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Meteora DLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.34447239,
+      "volume_raw": "34447239"
+    },
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "path": "HFT bot (DDsnwb)/Meteora DLMM",
+      "raw_path": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.20821654,
+      "volume_raw": "20821654"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Swig Wallet/Jupiter v6/Byreal CLMM",
+      "raw_path": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.19104409,
+      "volume_raw": "19104409"
+    },
+    {
+      "class": "unknown",
+      "count": 14,
+      "path": "REALp6iMBDTctQqpmhBo4PumwJGcybbnDpxtax3ara3/Byreal CLMM",
+      "raw_path": "REALp6iMBDTctQqpmhBo4PumwJGcybbnDpxtax3ara3/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 0.1404488,
+      "volume_raw": "14044880"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (JET9RND)/Raydium CLMM",
+      "raw_path": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.09584034,
+      "volume_raw": "9584034"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (JET9RND)/Meteora DLMM",
+      "raw_path": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.09584034,
+      "volume_raw": "9584034"
+    },
+    {
+      "class": "hft_bot",
+      "count": 1,
+      "path": "HFT bot (NinafK)/Jupiter v6/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.05788465,
+      "volume_raw": "5788465"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (sattCHv)/Meteora DLMM",
+      "raw_path": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.05590895,
+      "volume_raw": "5590895"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (BASDaP)/Raydium CLMM",
+      "raw_path": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.003255,
+      "volume_raw": "325500"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Axiom/Raydium CLMM",
+      "raw_path": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00297251,
+      "volume_raw": "297251"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "BBRouter1cVunVXvkcqeKkZQcBK7ruan37PPm3xzWaXD/Raydium CLMM",
+      "raw_path": "BBRouter1cVunVXvkcqeKkZQcBK7ruan37PPm3xzWaXD/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00123103,
+      "volume_raw": "123103"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/MNFSTqtC93rEfYHB6hF82sKdZpUDFWkViLByLd1k1Ms",
+      "volume": 0.00012547,
+      "volume_raw": "12547"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "GMGNreQcJFufBiCTLDBgKhYEfEe9B454UjpDr5CaSLA1/Raydium CLMM",
+      "raw_path": "GMGNreQcJFufBiCTLDBgKhYEfEe9B454UjpDr5CaSLA1/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00006469,
+      "volume_raw": "6469"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/Raydium CLMM",
+      "raw_path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 4.7e-7,
+      "volume_raw": "47"
+    },
+    {
+      "class": "unknown",
+      "count": 1,
+      "path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/Byreal CLMM",
+      "raw_path": "MEViZt7uNtZs47XkjujUuMSAxxxVtQQ25SwToLcEckt/REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "volume": 4.7e-7,
+      "volume_raw": "47"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 871,
+      "volume": 3594.65100727,
+      "volume_raw": "359465100727"
+    },
+    {
+      "class": "direct_dex",
+      "count": 489,
+      "volume": 2876.57119846,
+      "volume_raw": "287657119846"
+    },
+    {
+      "class": "hft_bot",
+      "count": 491,
+      "volume": 388.22043576,
+      "volume_raw": "38822043576"
+    },
+    {
+      "class": "unknown",
+      "count": 70,
+      "volume": 89.48785406,
+      "volume_raw": "8948785406"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 662,
+      "level": 2,
+      "volume": 4136.3765958,
+      "volume_raw": "413637659580"
+    },
+    {
+      "count": 1179,
+      "level": 3,
+      "volume": 2777.11142146,
+      "volume_raw": "277711142146"
+    },
+    {
+      "count": 80,
+      "level": 4,
+      "volume": 35.44247829,
+      "volume_raw": "3544247829"
+    }
+  ],
+  "max_block_time": 1780531119,
+  "max_slot": 424130667,
+  "max_time_utc": "2026-06-03T23:58:39Z",
+  "min_block_time": 1780444876,
+  "min_slot": 423914040,
+  "min_time_utc": "2026-06-03T00:01:16Z",
+  "mint": "Xs78JED6PFZxWc2wCEPspZW9kL3Se5J7L5TChKgsidH",
+  "name": "Strategy PP Variable xStock",
+  "router_histogram": [
+    {
+      "count": 63,
+      "router": "Jupiter Order Engine",
+      "volume": 832.88785689,
+      "volume_raw": "83288785689"
+    },
+    {
+      "count": 417,
+      "router": "Jupiter v6",
+      "volume": 736.28333472,
+      "volume_raw": "73628333472"
+    },
+    {
+      "count": 123,
+      "router": "Titan Router",
+      "volume": 703.048264,
+      "volume_raw": "70304826400"
+    },
+    {
+      "count": 196,
+      "router": "OKX DEX Router",
+      "volume": 606.37654928,
+      "volume_raw": "60637654928"
+    },
+    {
+      "count": 30,
+      "router": "DFlow Aggregator v4",
+      "volume": 391.50961244,
+      "volume_raw": "39150961244"
+    },
+    {
+      "count": 26,
+      "router": "Raydium Route",
+      "volume": 301.87569616,
+      "volume_raw": "30187569616"
+    },
+    {
+      "count": 5,
+      "router": "ByReal Router",
+      "volume": 20.14184369,
+      "volume_raw": "2014184369"
+    },
+    {
+      "count": 1,
+      "router": "Mayan Swift",
+      "volume": 1.40433016,
+      "volume_raw": "140433016"
+    },
+    {
+      "count": 9,
+      "router": "Swig Wallet",
+      "volume": 1.12054742,
+      "volume_raw": "112054742"
+    },
+    {
+      "count": 1,
+      "router": "Axiom",
+      "volume": 0.00297251,
+      "volume_raw": "297251"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "STRCx",
+  "transfers": 1921,
+  "txs": 14011,
+  "txs_with_transfer": 1248,
+  "txs_without_transfer": 12763,
+  "volume": 6948.93049555,
+  "volume_raw": "694893049555",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

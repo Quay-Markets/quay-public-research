@@ -1,0 +1,102 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 0.61524355,
+      "volume_raw": "61524355"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.61524355,
+      "volume_raw": "61524355"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 0.00004897,
+      "volume_raw": "4897"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00004897,
+      "volume_raw": "4897"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 3,
+      "volume": 0.61534149,
+      "volume_raw": "61534149"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "volume": 0.61524355,
+      "volume_raw": "61524355"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 3,
+      "level": 2,
+      "volume": 1.23053607,
+      "volume_raw": "123053607"
+    },
+    {
+      "count": 1,
+      "level": 3,
+      "volume": 0.00004897,
+      "volume_raw": "4897"
+    }
+  ],
+  "max_block_time": 1780518957,
+  "max_slot": 424100141,
+  "max_time_utc": "2026-06-03T20:35:57Z",
+  "min_block_time": 1780480816,
+  "min_slot": 424004377,
+  "min_time_utc": "2026-06-03T10:00:16Z",
+  "mint": "Xsv99frTRUeornyvCfvhnDesQDWuvns1M852Pez91vF",
+  "name": "PepsiCo xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 0.61524355,
+      "volume_raw": "61524355"
+    },
+    {
+      "count": 2,
+      "router": "Titan Router",
+      "volume": 0.00009794,
+      "volume_raw": "9794"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "PEPx",
+  "transfers": 4,
+  "txs": 5,
+  "txs_with_transfer": 3,
+  "txs_without_transfer": 2,
+  "volume": 1.23058504,
+  "volume_raw": "123058504",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

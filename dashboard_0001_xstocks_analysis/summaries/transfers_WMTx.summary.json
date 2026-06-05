@@ -1,0 +1,218 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 255.90227779,
+      "volume_raw": "25590227779"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX Vault/OKX DEX Router",
+      "raw_path": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH/proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u",
+      "volume": 1.30875685,
+      "volume_raw": "130875685"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX Vault/OKX DEX Router/Raydium CLMM",
+      "raw_path": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH/proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.30875685,
+      "volume_raw": "130875685"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 0.992515,
+      "volume_raw": "99251500"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.9910716,
+      "volume_raw": "99107160"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.31889551,
+      "volume_raw": "31889551"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.01206274,
+      "volume_raw": "1206274"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00778082,
+      "volume_raw": "778082"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.00678854,
+      "volume_raw": "678854"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00678854,
+      "volume_raw": "678854"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (NinafK)/Jupiter v6/Raydium CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00332069,
+      "volume_raw": "332069"
+    },
+    {
+      "class": "hft_bot",
+      "count": 4,
+      "path": "HFT bot (NinafK)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00332069,
+      "volume_raw": "332069"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Titan Router/Orca Whirlpool",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00185014,
+      "volume_raw": "185014"
+    },
+    {
+      "class": "direct_dex",
+      "count": 1,
+      "path": "Orca Whirlpool",
+      "raw_path": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00001464,
+      "volume_raw": "1464"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 14,
+      "volume": 260.84548164,
+      "volume_raw": "26084548164"
+    },
+    {
+      "class": "direct_dex",
+      "count": 2,
+      "volume": 0.01207738,
+      "volume_raw": "1207738"
+    },
+    {
+      "class": "hft_bot",
+      "count": 8,
+      "volume": 0.00664138,
+      "volume_raw": "664138"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 5,
+      "level": 2,
+      "volume": 256.91365871,
+      "volume_raw": "25691365871"
+    },
+    {
+      "count": 9,
+      "level": 3,
+      "volume": 2.63514346,
+      "volume_raw": "263514346"
+    },
+    {
+      "count": 10,
+      "level": 4,
+      "volume": 1.31539823,
+      "volume_raw": "131539823"
+    }
+  ],
+  "max_block_time": 1780521514,
+  "max_slot": 424106554,
+  "max_time_utc": "2026-06-03T21:18:34Z",
+  "min_block_time": 1780446416,
+  "min_slot": 423917889,
+  "min_time_utc": "2026-06-03T00:26:56Z",
+  "mint": "Xs151QeqTCiuKtinzfRATnUESM2xTU6V9Wy8Vy538ci",
+  "name": "Walmart xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 255.90227779,
+      "volume_raw": "25590227779"
+    },
+    {
+      "count": 4,
+      "router": "OKX Vault",
+      "volume": 2.6175137,
+      "volume_raw": "261751370"
+    },
+    {
+      "count": 5,
+      "router": "Titan Router",
+      "volume": 1.98543674,
+      "volume_raw": "198543674"
+    },
+    {
+      "count": 1,
+      "router": "OKX DEX Router",
+      "volume": 0.31889551,
+      "volume_raw": "31889551"
+    },
+    {
+      "count": 2,
+      "router": "Jupiter v6",
+      "volume": 0.01357708,
+      "volume_raw": "1357708"
+    },
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.00778082,
+      "volume_raw": "778082"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "WMTx",
+  "transfers": 24,
+  "txs": 19,
+  "txs_with_transfer": 14,
+  "txs_without_transfer": 5,
+  "volume": 260.8642004,
+  "volume_raw": "26086420040",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}
