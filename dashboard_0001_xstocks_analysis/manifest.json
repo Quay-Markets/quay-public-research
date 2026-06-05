@@ -1,6 +1,6 @@
 {
   "slug": "dashboard_0001_xstocks_analysis",
-  "title": "xStocks \u00b7 on-chain flow",
+  "title": "xStocks Solana Volume analysis",
   "base_url": "https://quay-markets.github.io/quay-public-research",
   "dashboard": "dashboards/dashboard_0001_xstocks_analysis.html",
   "window_start_utc": "2026-06-03T00:00:00Z",
