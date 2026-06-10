@@ -1,0 +1,132 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 5,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 1.60237683,
+      "volume_raw": "160237683"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "9GCBb4NsSDRuEkkGfQkN37oppmMVPops5sXDWhAKAvQQ/Raydium CLMM",
+      "raw_path": "9GCBb4NsSDRuEkkGfQkN37oppmMVPops5sXDWhAKAvQQ/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.06855404,
+      "volume_raw": "6855404"
+    },
+    {
+      "class": "unknown",
+      "count": 3,
+      "path": "9GCBb4NsSDRuEkkGfQkN37oppmMVPops5sXDWhAKAvQQ/Orca Whirlpool",
+      "raw_path": "9GCBb4NsSDRuEkkGfQkN37oppmMVPops5sXDWhAKAvQQ/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.02225002,
+      "volume_raw": "2225002"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.0075108,
+      "volume_raw": "751080"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6/Orca Whirlpool",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.0075108,
+      "volume_raw": "751080"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "path": "HFT bot (E4D7pxG)/Raydium CLMM",
+      "raw_path": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00559998,
+      "volume_raw": "559998"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Axiom/Orca Whirlpool",
+      "raw_path": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.0000831,
+      "volume_raw": "8310"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 8,
+      "volume": 1.61748153,
+      "volume_raw": "161748153"
+    },
+    {
+      "class": "unknown",
+      "count": 6,
+      "volume": 0.09080406,
+      "volume_raw": "9080406"
+    },
+    {
+      "class": "hft_bot",
+      "count": 2,
+      "volume": 0.00559998,
+      "volume_raw": "559998"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 16,
+      "level": 3,
+      "volume": 1.71388557,
+      "volume_raw": "171388557"
+    }
+  ],
+  "max_block_time": 1780491411,
+  "max_slot": 424030982,
+  "max_time_utc": "2026-06-03T12:56:51Z",
+  "min_block_time": 1780447810,
+  "min_slot": 423921398,
+  "min_time_utc": "2026-06-03T00:50:10Z",
+  "mint": "XsHtf5RpxsQ7jeJ9ivNewouZKJHbPxhPoEy6yYvULr7",
+  "name": "Abbott xStock",
+  "router_histogram": [
+    {
+      "count": 5,
+      "router": "OKX DEX Router",
+      "volume": 1.60237683,
+      "volume_raw": "160237683"
+    },
+    {
+      "count": 2,
+      "router": "Jupiter v6",
+      "volume": 0.0150216,
+      "volume_raw": "1502160"
+    },
+    {
+      "count": 1,
+      "router": "Axiom",
+      "volume": 0.0000831,
+      "volume_raw": "8310"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "ABTx",
+  "transfers": 16,
+  "txs": 83,
+  "txs_with_transfer": 9,
+  "txs_without_transfer": 74,
+  "volume": 1.71388557,
+  "volume_raw": "171388557",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

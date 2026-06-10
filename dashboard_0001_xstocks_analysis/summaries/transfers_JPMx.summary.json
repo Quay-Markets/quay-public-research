@@ -1,0 +1,116 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 5.31312274,
+      "volume_raw": "531312274"
+    },
+    {
+      "class": "direct_dex",
+      "count": 5,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 4.9366904,
+      "volume_raw": "493669040"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 4.49589804,
+      "volume_raw": "449589804"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 0.95248652,
+      "volume_raw": "95248652"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.55118391,
+      "volume_raw": "55118391"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 7,
+      "volume": 11.31269121,
+      "volume_raw": "1131269121"
+    },
+    {
+      "class": "direct_dex",
+      "count": 5,
+      "volume": 4.9366904,
+      "volume_raw": "493669040"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 7,
+      "level": 2,
+      "volume": 10.38507496,
+      "volume_raw": "1038507496"
+    },
+    {
+      "count": 5,
+      "level": 3,
+      "volume": 5.86430665,
+      "volume_raw": "586430665"
+    }
+  ],
+  "max_block_time": 1780526486,
+  "max_slot": 424119057,
+  "max_time_utc": "2026-06-03T22:41:26Z",
+  "min_block_time": 1780474317,
+  "min_slot": 423988033,
+  "min_time_utc": "2026-06-03T08:11:57Z",
+  "mint": "XsMAqkcKsUewDrzVkait4e5u4y8REgtyS7jWgCpLV2C",
+  "name": "JPMorgan Chase xStock",
+  "router_histogram": [
+    {
+      "count": 3,
+      "router": "Jupiter v6",
+      "volume": 9.80902078,
+      "volume_raw": "980902078"
+    },
+    {
+      "count": 1,
+      "router": "Jupiter Order Engine",
+      "volume": 0.95248652,
+      "volume_raw": "95248652"
+    },
+    {
+      "count": 3,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.55118391,
+      "volume_raw": "55118391"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "JPMx",
+  "transfers": 12,
+  "txs": 18,
+  "txs_with_transfer": 11,
+  "txs_without_transfer": 7,
+  "volume": 16.24938161,
+  "volume_raw": "1624938161",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

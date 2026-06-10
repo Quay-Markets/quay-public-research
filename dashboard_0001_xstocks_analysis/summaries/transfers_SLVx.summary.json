@@ -1,0 +1,60 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Meteora DLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.01173547,
+      "volume_raw": "1173547"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 1,
+      "volume": 0.01173547,
+      "volume_raw": "1173547"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 1,
+      "level": 3,
+      "volume": 0.01173547,
+      "volume_raw": "1173547"
+    }
+  ],
+  "max_block_time": 1780499527,
+  "max_slot": 424051342,
+  "max_time_utc": "2026-06-03T15:12:07Z",
+  "min_block_time": 1780477014,
+  "min_slot": 423994813,
+  "min_time_utc": "2026-06-03T08:56:54Z",
+  "mint": "XsxAd6okt8y1RRK6gNg7iJaqiWNiq5Md5EDf3ZrF2dm",
+  "name": "iShares Silver Trust xStock",
+  "router_histogram": [
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.01173547,
+      "volume_raw": "1173547"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "SLVx",
+  "transfers": 1,
+  "txs": 3,
+  "txs_with_transfer": 1,
+  "txs_without_transfer": 2,
+  "volume": 0.01173547,
+  "volume_raw": "1173547",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

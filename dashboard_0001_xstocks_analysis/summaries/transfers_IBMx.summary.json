@@ -1,0 +1,102 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Jupiter v6/Meteora DLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.28675272,
+      "volume_raw": "28675272"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "OKX DEX Router/Meteora DLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.28575955,
+      "volume_raw": "28575955"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Meteora DLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.02128533,
+      "volume_raw": "2128533"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Axiom/Meteora DLMM",
+      "raw_path": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 0.00288606,
+      "volume_raw": "288606"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "router",
+      "count": 8,
+      "volume": 0.59668366,
+      "volume_raw": "59668366"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 8,
+      "level": 3,
+      "volume": 0.59668366,
+      "volume_raw": "59668366"
+    }
+  ],
+  "max_block_time": 1780523686,
+  "max_slot": 424112009,
+  "max_time_utc": "2026-06-03T21:54:46Z",
+  "min_block_time": 1780458937,
+  "min_slot": 423949339,
+  "min_time_utc": "2026-06-03T03:55:37Z",
+  "mint": "XspwhyYPdWVM8XBHZnpS9hgyag9MKjLRyE3tVfmCbSr",
+  "name": "International Business Machines xStock",
+  "router_histogram": [
+    {
+      "count": 4,
+      "router": "Jupiter v6",
+      "volume": 0.28675272,
+      "volume_raw": "28675272"
+    },
+    {
+      "count": 2,
+      "router": "OKX DEX Router",
+      "volume": 0.28575955,
+      "volume_raw": "28575955"
+    },
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.02128533,
+      "volume_raw": "2128533"
+    },
+    {
+      "count": 1,
+      "router": "Axiom",
+      "volume": 0.00288606,
+      "volume_raw": "288606"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "IBMx",
+  "transfers": 8,
+  "txs": 31,
+  "txs_with_transfer": 8,
+  "txs_without_transfer": 23,
+  "volume": 0.59668366,
+  "volume_raw": "59668366",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

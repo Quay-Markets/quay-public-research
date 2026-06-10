@@ -1,0 +1,174 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 8,
+      "path": "Raydium CLMM",
+      "raw_path": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 8.29006059,
+      "volume_raw": "829006059"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter Order Engine",
+      "raw_path": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "volume": 3.45478856,
+      "volume_raw": "345478856"
+    },
+    {
+      "class": "router",
+      "count": 9,
+      "path": "Titan Router/Raydium CLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.75165805,
+      "volume_raw": "75165805"
+    },
+    {
+      "class": "router",
+      "count": 3,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 0.75143301,
+      "volume_raw": "75143301"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Jupiter v6/Raydium CLMM",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.66903813,
+      "volume_raw": "66903813"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "OKX DEX Router/Raydium CLMM",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.55333495,
+      "volume_raw": "55333495"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Raydium Route/Raydium CLMM",
+      "raw_path": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.13325613,
+      "volume_raw": "13325613"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter v6/Orca Whirlpool",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.06872235,
+      "volume_raw": "6872235"
+    },
+    {
+      "class": "router",
+      "count": 2,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 0.05475427,
+      "volume_raw": "5475427"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "DFlow Aggregator v4/Raydium CLMM",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.01522581,
+      "volume_raw": "1522581"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 8,
+      "volume": 8.29006059,
+      "volume_raw": "829006059"
+    },
+    {
+      "class": "router",
+      "count": 25,
+      "volume": 6.45221126,
+      "volume_raw": "645221126"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 15,
+      "level": 2,
+      "volume": 12.55103643,
+      "volume_raw": "1255103643"
+    },
+    {
+      "count": 18,
+      "level": 3,
+      "volume": 2.19123542,
+      "volume_raw": "219123542"
+    }
+  ],
+  "max_block_time": 1780527031,
+  "max_slot": 424120431,
+  "max_time_utc": "2026-06-03T22:50:31Z",
+  "min_block_time": 1780452893,
+  "min_slot": 423934225,
+  "min_time_utc": "2026-06-03T02:14:53Z",
+  "mint": "XsaHND8sHyfMfsWPj6kSdd5VwvCayZvjYgKmmcNL5qh",
+  "name": "Exxon Mobil xStock",
+  "router_histogram": [
+    {
+      "count": 2,
+      "router": "Jupiter Order Engine",
+      "volume": 3.45478856,
+      "volume_raw": "345478856"
+    },
+    {
+      "count": 12,
+      "router": "Titan Router",
+      "volume": 1.50309106,
+      "volume_raw": "150309106"
+    },
+    {
+      "count": 8,
+      "router": "Jupiter v6",
+      "volume": 0.79251475,
+      "volume_raw": "79251475"
+    },
+    {
+      "count": 1,
+      "router": "OKX DEX Router",
+      "volume": 0.55333495,
+      "volume_raw": "55333495"
+    },
+    {
+      "count": 1,
+      "router": "Raydium Route",
+      "volume": 0.13325613,
+      "volume_raw": "13325613"
+    },
+    {
+      "count": 1,
+      "router": "DFlow Aggregator v4",
+      "volume": 0.01522581,
+      "volume_raw": "1522581"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "XOMx",
+  "transfers": 33,
+  "txs": 35,
+  "txs_with_transfer": 24,
+  "txs_without_transfer": 11,
+  "volume": 14.74227185,
+  "volume_raw": "1474227185",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

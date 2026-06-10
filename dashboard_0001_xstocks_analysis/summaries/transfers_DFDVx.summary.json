@@ -1,0 +1,154 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 29,
+      "path": "Orca Whirlpool",
+      "raw_path": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 3537.62504142,
+      "volume_raw": "353762504142"
+    },
+    {
+      "class": "router",
+      "count": 11,
+      "path": "OKX DEX Router/Orca Whirlpool",
+      "raw_path": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 295.25590976,
+      "volume_raw": "29525590976"
+    },
+    {
+      "class": "router",
+      "count": 47,
+      "path": "Titan Router/Orca Whirlpool",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 218.39362147,
+      "volume_raw": "21839362147"
+    },
+    {
+      "class": "router",
+      "count": 21,
+      "path": "Titan Router",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "volume": 218.32308947,
+      "volume_raw": "21832308947"
+    },
+    {
+      "class": "router",
+      "count": 7,
+      "path": "Jupiter v6/Orca Whirlpool",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 212.76808228,
+      "volume_raw": "21276808228"
+    },
+    {
+      "class": "router",
+      "count": 9,
+      "path": "DFlow Aggregator v4/Orca Whirlpool",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 51.9241096,
+      "volume_raw": "5192410960"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "Jupiter v6",
+      "raw_path": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "volume": 37.6006502,
+      "volume_raw": "3760065020"
+    },
+    {
+      "class": "router",
+      "count": 4,
+      "path": "DFlow Aggregator v4",
+      "raw_path": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "volume": 16.7877986,
+      "volume_raw": "1678779860"
+    },
+    {
+      "class": "router",
+      "count": 1,
+      "path": "Titan Router/Meteora DLMM",
+      "raw_path": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "volume": 6.3e-6,
+      "volume_raw": "630"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "direct_dex",
+      "count": 29,
+      "volume": 3537.62504142,
+      "volume_raw": "353762504142"
+    },
+    {
+      "class": "router",
+      "count": 104,
+      "volume": 1051.05326768,
+      "volume_raw": "105105326768"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 58,
+      "level": 2,
+      "volume": 3810.33657969,
+      "volume_raw": "381033657969"
+    },
+    {
+      "count": 75,
+      "level": 3,
+      "volume": 778.34172941,
+      "volume_raw": "77834172941"
+    }
+  ],
+  "max_block_time": 1780528927,
+  "max_slot": 424125179,
+  "max_time_utc": "2026-06-03T23:22:07Z",
+  "min_block_time": 1780447989,
+  "min_slot": 423921851,
+  "min_time_utc": "2026-06-03T00:53:09Z",
+  "mint": "Xs2yquAgsHByNzx68WJC55WHjHBvG9JsMB7CWjTLyPy",
+  "name": "DFDV xStock",
+  "router_histogram": [
+    {
+      "count": 69,
+      "router": "Titan Router",
+      "volume": 436.71671724,
+      "volume_raw": "43671671724"
+    },
+    {
+      "count": 11,
+      "router": "OKX DEX Router",
+      "volume": 295.25590976,
+      "volume_raw": "29525590976"
+    },
+    {
+      "count": 11,
+      "router": "Jupiter v6",
+      "volume": 250.36873248,
+      "volume_raw": "25036873248"
+    },
+    {
+      "count": 13,
+      "router": "DFlow Aggregator v4",
+      "volume": 68.7119082,
+      "volume_raw": "6871190820"
+    }
+  ],
+  "subdivisions": 0,
+  "symbol": "DFDVx",
+  "transfers": 133,
+  "txs": 94,
+  "txs_with_transfer": 82,
+  "txs_without_transfer": 12,
+  "volume": 4588.6783091,
+  "volume_raw": "458867830910",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

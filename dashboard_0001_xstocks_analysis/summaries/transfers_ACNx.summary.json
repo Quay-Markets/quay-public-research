@@ -1,0 +1,61 @@
+{
+  "call_stack_histogram": [
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Raydium CLMM",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "volume": 0.00240291,
+      "volume_raw": "240291"
+    },
+    {
+      "class": "hft_bot",
+      "count": 3,
+      "path": "HFT bot (NinafK)/Jupiter v6/Orca Whirlpool",
+      "raw_path": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "volume": 0.00240291,
+      "volume_raw": "240291"
+    }
+  ],
+  "class_histogram": [
+    {
+      "class": "hft_bot",
+      "count": 6,
+      "volume": 0.00480582,
+      "volume_raw": "480582"
+    }
+  ],
+  "decimals": 8,
+  "errors": 0,
+  "initial_windows": 0,
+  "level_histogram": [
+    {
+      "count": 6,
+      "level": 4,
+      "volume": 0.00480582,
+      "volume_raw": "480582"
+    }
+  ],
+  "max_block_time": 1780520045,
+  "max_slot": 424102892,
+  "max_time_utc": "2026-06-03T20:54:05Z",
+  "min_block_time": 1780489089,
+  "min_slot": 424025141,
+  "min_time_utc": "2026-06-03T12:18:09Z",
+  "mint": "Xs5UJzmCRQ8DWZjskExdSQDnbE6iLkRu2jjrRAB1JSU",
+  "name": "Accenture xStock",
+  "router_histogram": [],
+  "subdivisions": 0,
+  "symbol": "ACNx",
+  "transfers": 6,
+  "txs": 5,
+  "txs_with_transfer": 3,
+  "txs_without_transfer": 2,
+  "volume": 0.00480582,
+  "volume_raw": "480582",
+  "window_end_utc": "2026-06-04T00:00:00Z",
+  "window_max_slot": 424130872,
+  "window_min_slot": 423913852,
+  "window_start_utc": "2026-06-03T00:00:00Z",
+  "windows_done": 0
+}

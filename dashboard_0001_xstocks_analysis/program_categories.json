@@ -1,0 +1,272 @@
+{
+  "aggregator": [
+    {
+      "id": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "name": "Jupiter v6"
+    },
+    {
+      "id": "61DFfeTKM7trxYcPQCM78bJ794ddZprZpAwAnLiwTpYH",
+      "name": "Jupiter Order Engine"
+    },
+    {
+      "id": "proVF4pMXVaYqmy4NjniPh4pqKNfMmsihgd4wdkCX3u",
+      "name": "OKX DEX Router"
+    },
+    {
+      "id": "va1t8sdGkReA6XFgAeZGXmdQoiEtMirwy4ifLv7yGdH",
+      "name": "OKX Vault"
+    },
+    {
+      "id": "T1TANpTeScyeqVzzgNViGDNrkQ6qHz9KrSBS4aNXvGT",
+      "name": "Titan Router"
+    },
+    {
+      "id": "mayan34VedncxdK2XobtvWFDXQASUTBXhUVzt2kKgny",
+      "name": "Mayan Swift"
+    },
+    {
+      "id": "DF1ow4tspfHX9JwWJsAb9epbkA8hmpSEAtxXy1V27QBH",
+      "name": "DFlow Aggregator v4"
+    },
+    {
+      "id": "routeUGWgWzqBWFcrCfv8tritsqukccJPu3q5GPP3xS",
+      "name": "Raydium Route"
+    },
+    {
+      "id": "HuTkmnrv4zPnArMqpbMbFhfwzTR7xfWQZHH1aQKzDKFZ",
+      "name": "Liquid Mesh Router"
+    },
+    {
+      "id": "s7SunwrPG5SbViEKiViaDThPRJxkkTrNx2iRPN3exNC",
+      "name": "BGW Aggregator"
+    },
+    {
+      "id": "BYrEa363GeActic949HkNmw7VGBf9k7awKEqCTZvPuT4",
+      "name": "ByReal Router"
+    },
+    {
+      "id": "B3111yJCeHBcA1bizdJjUFPALfhAfSRnAbJzGUtnt56A",
+      "name": "Binance Wallet Router"
+    },
+    {
+      "id": "2rwUXt3JeyPtUBjH5pscZLRDBoh9WADfXq7gyoDnLcC4",
+      "name": "Gate.io Router"
+    },
+    {
+      "id": "FLASHX8DrLbgeR8FcfNV1F5krxYcYMUdBkrP1EPBtxB9",
+      "name": "Axiom"
+    },
+    {
+      "id": "swigypWHEksbC64pWKwah1WTeh9JXwx8H1rJHLdbQMB",
+      "name": "Swig Wallet"
+    }
+  ],
+  "bot": [
+    {
+      "id": "3URuDiCXFYJ95YVeDW8MP3b7CKTnuqArY5GTZA2JnPWQ",
+      "name": "HFT bot (3URu)"
+    },
+    {
+      "id": "CoTh2vLV87d3wBM7pgLYkkh4q7WBKcVGnVzL3ABuwVR4",
+      "name": "HFT bot (CoTh2v)"
+    },
+    {
+      "id": "AMLoeuWtytPa5DuLtcD35Fj5qtJSE7379ApE2BaTaSrp",
+      "name": "HFT bot (AMLoeu)"
+    },
+    {
+      "id": "sattCHvHkM4XHLyadnU4KQtuNWZbWVDKzuPhmJBXCkq",
+      "name": "HFT bot (sattCHv)"
+    },
+    {
+      "id": "7obtMdiXQaLCao2mCRzsanxRusUH8QAz8eT5PJyUTHFQ",
+      "name": "HFT bot (7obtMdi)"
+    },
+    {
+      "id": "theovTrkQogG4GbMdQfDZGUMdZafXF8JtXvh4btu31i",
+      "name": "HFT bot (theovTrk)"
+    },
+    {
+      "id": "boyftq7VDXu4mJs8cDqQM63i6LNzBs3kg41rre7Ek5v",
+      "name": "HFT bot (boyftq7)"
+    },
+    {
+      "id": "GnZr2LD3N1F7mr5mNdgN7doBMxFNAF9dKtpoNHGCkrx2",
+      "name": "HFT bot (GnZr2LD)"
+    },
+    {
+      "id": "3AQz4t3ShixZWw5vhvkAindHhMco3s12gxgvGuMeh2Yg",
+      "name": "HFT bot (3AQz4t3)"
+    },
+    {
+      "id": "CroWg74XNDF8UMnAZVbXx49iVj7iJ7b4CsqTCVWF7aK",
+      "name": "HFT bot (CroWg74)"
+    },
+    {
+      "id": "joeHSutRWndCtp1EPx5tz5zHyaPBZUZ5JsxDEVB1RPZ",
+      "name": "MEV bot (joeHSut)"
+    },
+    {
+      "id": "CNCBEUHgsEwXRkc5ov5f42gnHnmtrmv3BoG7TdtyKMen",
+      "name": "MEV router (CNCBEUH)"
+    },
+    {
+      "id": "MtvwNH8eijJV3Pxcak9ZzsXeX7rWiAB2QGaPz1XDpd2",
+      "name": "Arb bot (MtvwNH8)"
+    },
+    {
+      "id": "NA247a7YE9S3p9CdKmMyETx8TTwbSdVbVYHHxpnHTUV",
+      "name": "Router bot (NA247)"
+    },
+    {
+      "id": "giftBX9qeXhyECT79zNvJBTMFDxRny8w4yS8iky8BsK",
+      "name": "HFT bot (giftBX9q)"
+    },
+    {
+      "id": "E4D7pxGf8u7FdMGACFVam5Kv4u9PwxrAsBmdxuzFyegv",
+      "name": "HFT bot (E4D7pxG)"
+    },
+    {
+      "id": "JET9RNDGg9M6UiVfW8qV9m7pEjGdfWjxBqgeL7pgQ6a",
+      "name": "HFT bot (JET9RND)"
+    },
+    {
+      "id": "LiApkFTR9qVaGQgb4hykwbw7ir3ZPPMmE1zNPiakVGh",
+      "name": "Swap router (LiApkFT)"
+    },
+    {
+      "id": "9i7QdbBHx7fjLAAaFfcDRgkdS4oNfKv8duzyE27a1kJ6",
+      "name": "HFT bot (9i7Qdb)"
+    },
+    {
+      "id": "8KDGPdXXr6QQbXFyXh4kchwmQGLJoroUJccymFhubqcW",
+      "name": "HFT bot (8KDGPd)"
+    },
+    {
+      "id": "AWyHupJb5LBjgcAjDaLmLMRbj72dX4kTtnvNpbrMqpFF",
+      "name": "HFT bot (AWyHup)"
+    },
+    {
+      "id": "rexhfZLRRxRkPkw9izswgMFRPDb9U58jeinH7wqUVuw",
+      "name": "HFT bot (rexhfZ)"
+    },
+    {
+      "id": "MyS6zf56ARsDbSyBErueWFxMnyEvwNByS2PYFxFEgVB",
+      "name": "HFT bot (MyS6zf)"
+    },
+    {
+      "id": "DDsnwb7dxKSjzTYDFjU8F6rpYNZa1sp7Fmfb2nGDAMEo",
+      "name": "HFT bot (DDsnwb)"
+    },
+    {
+      "id": "Cmv6fTsiNdLkVR2zSge7B9oFGf7LS6F4zteA73331XW8",
+      "name": "Arb bot (Cmv6fT)"
+    },
+    {
+      "id": "NinafKYvKDCH26v6uEpfDjyuDjjpbdfhiPjrJV6FTFs",
+      "name": "HFT bot (NinafK)"
+    },
+    {
+      "id": "L6pUpkHtq3CLtJRTrZ9GsBxfweZ8iPS6CnDQMdmcbad",
+      "name": "HFT bot (L6pUpk)"
+    },
+    {
+      "id": "E52MR3wWQJG7mdBxLbw5tLcpF7DNzBWFKfacQ1HFSVrv",
+      "name": "HFT bot (E52MR3)"
+    },
+    {
+      "id": "5mngCUEf2TAnu92oKZiovKwojcjkkSVBFtsZai7Agoxb",
+      "name": "HFT bot (5mngCU)"
+    },
+    {
+      "id": "CFU3XT4yiuERvM4298sGWuWFxMRmJkeyganCQ3WtuMK3",
+      "name": "HFT bot (CFU3XT)"
+    },
+    {
+      "id": "ESNuNFWxQ1MHPT57WGzLzYbdQV1JLnuekY86HuVBNCgx",
+      "name": "HFT bot (ESNuNF)"
+    },
+    {
+      "id": "BASDaPs2cdVTsvgPRfESDLZgek8tKRTfqbR2ksdgptsn",
+      "name": "HFT bot (BASDaP)"
+    },
+    {
+      "id": "King7ki4SKMBPb3iupnQwTyjsq294jaXsgLmJo8cb7T",
+      "name": "HFT bot (King7k)"
+    },
+    {
+      "id": "9Zzf9QqTy3TkyXysvJBsXyuRjda5aXCEJ9vXfL2HKSYv",
+      "name": "HFT bot (9Zzf9Q)"
+    },
+    {
+      "id": "AnCCJjheynmGqPp6Vgat9DTirGKD4CtQzP8cwTYV8qKH",
+      "name": "HFT bot (AnCCJj)"
+    }
+  ],
+  "dex": [
+    {
+      "id": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+      "name": "Raydium CLMM"
+    },
+    {
+      "id": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+      "name": "Raydium AMM v4"
+    },
+    {
+      "id": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+      "name": "Raydium CPMM"
+    },
+    {
+      "id": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+      "name": "Orca Whirlpool"
+    },
+    {
+      "id": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+      "name": "Meteora DLMM"
+    },
+    {
+      "id": "PhoeNiXZ8ByJGLkxNfZRnkUfjvmuYqLR89jjFHGqdXY",
+      "name": "Phoenix"
+    },
+    {
+      "id": "REALQqNEomY6cQGZJUGwywTBD2UmDT32rZcNnfxQ5N2",
+      "name": "Byreal CLMM"
+    }
+  ],
+  "infra": [
+    {
+      "id": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+      "name": "SPL Token"
+    },
+    {
+      "id": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+      "name": "Token-2022"
+    },
+    {
+      "id": "11111111111111111111111111111111",
+      "name": "System Program"
+    },
+    {
+      "id": "ComputeBudget111111111111111111111111111111",
+      "name": "Compute Budget"
+    },
+    {
+      "id": "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL",
+      "name": "Associated Token Account"
+    },
+    {
+      "id": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+      "name": "Memo"
+    },
+    {
+      "id": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+      "name": "SPL Governance"
+    }
+  ],
+  "position_manager": [
+    {
+      "id": "9hFYKmiJd1CZAcsTLR7xTbswj9Wy7aryqhT7RpbZYReP",
+      "name": "Raydium CLMM Position Manager"
+    }
+  ]
+}
